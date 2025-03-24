@@ -1,0 +1,609 @@
+Identifier (RIC),Company Name,GICS Industry Name,Year,Board Cultural Diversity Percent,Board Gender Diversity Percent Score,Board Size,DIR Diversity Score,DIR Inclusion Score,EBITDA,Employees Prd/Prd Avg FY,Executive Members Gender Diversity Percent Score,Executives Cultural Diversity Score,Total Capital,Training Hours Total,Women Employees Score,Industry Group
+002410.SZ,Glodon Co Ltd,Software,2017,16.665,30.48,9.0,21.6,16.2,38569750.83,4583.5,78.03399999999999,67.205,577485238.37,215313.53333333333,73.204,Technology & Consumer Goods
+002410.SZ,Glodon Co Ltd,Software,2018,16.665,30.48,9.0,21.6,16.2,87635059.87,4905.0,78.03399999999999,67.205,649886691.36,215313.53333333333,73.204,Technology & Consumer Goods
+002410.SZ,Glodon Co Ltd,Software,2019,16.665,30.48,9.0,21.6,16.2,87590823.94,5722.0,78.03399999999999,67.205,652574433.86,215313.53333333333,73.204,Technology & Consumer Goods
+002410.SZ,Glodon Co Ltd,Software,2020,16.665,13.42,9.0,21.0,0.0,58316275.96,6679.5,82.46,77.27,638720883.97,215313.53333333333,78.31,Technology & Consumer Goods
+002410.SZ,Glodon Co Ltd,Software,2021,16.665,45.04,9.0,21.0,0.0,81471727.2,7664.0,68.26,57.14,1007063803.83,215313.53333333333,78.7,Technology & Consumer Goods
+002410.SZ,Glodon Co Ltd,Software,2022,16.665,42.37,9.0,22.0,0.0,142568589.92,8849.5,72.87,67.205,1002809083.61,248940.6,67.43,Technology & Consumer Goods
+002410.SZ,Glodon Co Ltd,Software,2023,11.11,39.85,9.0,22.0,28.0,194937119.41,10084.5,84.47,67.205,1011403847.94,215000.0,70.32,Technology & Consumer Goods
+002410.SZ,Glodon Co Ltd,Software,2024,22.22,11.72,9.0,22.0,53.0,105059445.18,10516.0,82.11,67.205,922563484.46,182000.0,71.26,Technology & Consumer Goods
+002475.SZ,Luxshare Precision Industry Co Ltd,Electronic Equipment Instruments & Components,2017,14.29,92.75142857142858,7.0,31.722857142857144,24.337142857142855,250754414.52,41644.0,75.78571428571429,98.65,2291976243.7,4698639.492,70.704,Technology & Consumer Goods
+002475.SZ,Luxshare Precision Industry Co Ltd,Electronic Equipment Instruments & Components,2018,14.29,66.78,7.0,28.0,0.0,416898893.38,49862.0,94.15,98.65,2982468459.8,4698639.492,70.704,Technology & Consumer Goods
+002475.SZ,Luxshare Precision Industry Co Ltd,Electronic Equipment Instruments & Components,2019,14.29,99.09,7.0,40.0,0.0,667858804.45,66497.0,89.91,98.65,3518260360.7,4698639.492,70.704,Technology & Consumer Goods
+002475.SZ,Luxshare Precision Industry Co Ltd,Electronic Equipment Instruments & Components,2020,14.29,97.87,7.0,33.0,36.0,1068349977.02,107818.0,78.34,98.65,4101230733.43,206118.2,75.45,Technology & Consumer Goods
+002475.SZ,Luxshare Precision Industry Co Ltd,Electronic Equipment Instruments & Components,2021,14.29,97.33,7.0,45.0,36.0,1596036209.96,154847.0,90.26,98.65,6646759580.08,1323332.0,79.61,Technology & Consumer Goods
+002475.SZ,Luxshare Precision Industry Co Ltd,Electronic Equipment Instruments & Components,2022,14.29,96.72,7.0,34.06,36.36,2079953977.42,200281.0,60.36,98.65,10698803888.48,6007559.0,65.43,Technology & Consumer Goods
+002475.SZ,Luxshare Precision Industry Co Ltd,Electronic Equipment Instruments & Components,2023,14.29,96.08,7.0,23.0,31.0,2720987357.19,232542.0,58.39,98.65,13335682121.73,10715691.29,66.22,Technology & Consumer Goods
+002475.SZ,Luxshare Precision Industry Co Ltd,Electronic Equipment Instruments & Components,2024,14.29,95.39,7.0,19.0,31.0,3044527263.38,234758.5,59.09,98.65,15550909504.35,5240496.97,66.81,Technology & Consumer Goods
+002511.SZ,C&S Paper Co Ltd,Household Products,2017,10.066666666666666,65.22,9.6,26.454,0.6140000000000001,78345679.1,4581.5,20.042,47.89,515736010.37,1856.0,46.84,Technology & Consumer Goods
+002511.SZ,C&S Paper Co Ltd,Household Products,2018,10.066666666666666,65.22,9.6,26.454,0.6140000000000001,96567514.56,5144.5,20.042,47.89,698130564.22,1856.0,46.84,Technology & Consumer Goods
+002511.SZ,C&S Paper Co Ltd,Household Products,2019,10.066666666666666,65.22,9.6,26.454,0.6140000000000001,112619682.93,5584.0,20.042,47.89,574264536.4,1856.0,46.84,Technology & Consumer Goods
+002511.SZ,C&S Paper Co Ltd,Household Products,2020,10.066666666666666,78.72,9.0,29.0,0.0,145422426.67,5895.5,17.34,63.64,624734955.04,1856.0,52.88,Technology & Consumer Goods
+002511.SZ,C&S Paper Co Ltd,Household Products,2021,11.11,77.36,9.0,28.0,0.0,213950101.15,6331.0,17.81,32.14,830647751.72,1856.0,50.88,Technology & Consumer Goods
+002511.SZ,C&S Paper Co Ltd,Household Products,2022,10.066666666666666,42.37,9.0,24.27,1.07,165057284.99,6829.0,33.28,47.89,827435141.13,1856.0,47.73,Technology & Consumer Goods
+002511.SZ,C&S Paper Co Ltd,Household Products,2023,9.09,63.25,11.0,25.0,1.0,113181688.22,6836.5,15.96,47.89,890138111.12,1856.0,41.14,Technology & Consumer Goods
+002511.SZ,C&S Paper Co Ltd,Household Products,2024,10.0,64.4,10.0,26.0,1.0,103258787.23,6888.0,15.82,47.89,976111093.58,1856.0,41.57,Technology & Consumer Goods
+0142.HK,First Pacific Co Ltd,Food Products,2017,90.91,70.62,11.0,18.0,0.0,1218700000.0,111230.0,75.69,38.518,14142700000.0,137018.0,6.25,Technology & Consumer Goods
+0142.HK,First Pacific Co Ltd,Food Products,2018,90.91,67.29,11.0,18.0,18.0,1431400000.0,113765.0,77.6,38.518,16921100000.0,150887.0,7.65,Technology & Consumer Goods
+0142.HK,First Pacific Co Ltd,Food Products,2019,90.0,69.82,10.0,38.0,42.0,1516000000.0,106462.0,82.81,38.518,17315400000.0,99605.0,58.1,Technology & Consumer Goods
+0142.HK,First Pacific Co Ltd,Food Products,2020,88.89,73.79,9.0,23.0,55.0,1538100000.0,106115.0,79.73,25.0,17847200000.0,142458.0,6.94,Technology & Consumer Goods
+0142.HK,First Pacific Co Ltd,Food Products,2021,81.82,56.78,11.0,44.58,54.55,1515600000.0,102481.5,88.28,31.82,21567000000.0,92901.0,4.69,Technology & Consumer Goods
+0142.HK,First Pacific Co Ltd,Food Products,2022,80.0,56.05,10.0,35.0,55.0,1850700000.0,101623.5,78.63,39.29,21963000000.0,458656.0,9.39,Technology & Consumer Goods
+0142.HK,First Pacific Co Ltd,Food Products,2023,80.0,51.19,10.0,33.0,18.0,2216500000.0,100661.5,76.19,42.31,21676300000.0,314091.0,11.81,Technology & Consumer Goods
+0142.HK,First Pacific Co Ltd,Food Products,2024,80.0,46.0,10.0,39.0,22.0,2507500000.0,101336.0,87.5,54.17,23275100000.0,408126.0,16.42,Technology & Consumer Goods
+0992.HK,Lenovo Group Ltd,Technology Hardware Storage & Peripherals,2017,18.18,52.34,11.0,27.20142857142857,5.384285714285714,1403563000.0,56000.0,83.33,31.668,7967530000.0,1714125.0,44.64,Technology & Consumer Goods
+0992.HK,Lenovo Group Ltd,Technology Hardware Storage & Peripherals,2018,18.18,44.85,11.0,29.0,0.0,1074007000.0,53000.0,81.25,31.668,9163379000.0,1615705.0,54.69,Technology & Consumer Goods
+0992.HK,Lenovo Group Ltd,Technology Hardware Storage & Peripherals,2019,18.18,43.38,11.0,30.0,0.0,1934407000.0,55500.0,82.63,31.668,9749716000.0,1601390.0,43.42,Technology & Consumer Goods
+0992.HK,Lenovo Group Ltd,Technology Hardware Storage & Peripherals,2020,16.67,46.38,12.0,31.0,9.0,2401437000.0,60000.0,81.09,41.67,10816321000.0,1995000.0,47.73,Technology & Consumer Goods
+0992.HK,Lenovo Group Ltd,Technology Hardware Storage & Peripherals,2021,20.0,17.86,10.0,21.0,8.0,3114234000.0,67250.0,77.51,41.67,8960940000.0,2205000.0,53.39,Technology & Consumer Goods
+0992.HK,Lenovo Group Ltd,Technology Hardware Storage & Peripherals,2022,20.0,43.06,10.0,28.41,7.69,4364917000.0,73250.0,60.42,25.0,11372875000.0,3718000.0,45.89,Technology & Consumer Goods
+0992.HK,Lenovo Group Ltd,Technology Hardware Storage & Peripherals,2023,22.22,41.1,9.0,23.0,7.0,4275446000.0,76000.0,56.85,25.0,10406371000.0,2625000.0,49.4,Technology & Consumer Goods
+0992.HK,Lenovo Group Ltd,Technology Hardware Storage & Peripherals,2024,18.18,60.96,11.0,28.0,6.0,3615379000.0,73250.0,71.92,25.0,10042876000.0,3465000.0,53.37,Technology & Consumer Goods
+1876.HK,Budweiser Brewing Company APAC Ltd,Beverages,2017,80.0,95.054,7.0,49.0,26.5,1626000000.0,27925.0,39.624,14.52,11512000000.0,796879.0,84.69,Technology & Consumer Goods
+1876.HK,Budweiser Brewing Company APAC Ltd,Beverages,2018,80.0,95.054,7.0,49.0,26.5,1950000000.0,30220.5,39.624,14.52,10787000000.0,796879.0,84.69,Technology & Consumer Goods
+1876.HK,Budweiser Brewing Company APAC Ltd,Beverages,2019,80.0,95.054,7.0,49.0,26.5,2009000000.0,29315.5,39.624,14.52,10197000000.0,796879.0,84.69,Technology & Consumer Goods
+1876.HK,Budweiser Brewing Company APAC Ltd,Beverages,2020,100.0,89.67,7.0,37.0,36.0,1532000000.0,27517.5,51.43,14.52,10978000000.0,171276.0,87.5,Technology & Consumer Goods
+1876.HK,Budweiser Brewing Company APAC Ltd,Beverages,2021,85.71,97.25,7.0,52.0,0.0,2097000000.0,27925.0,40.55,10.71,11286000000.0,291379.0,83.08,Technology & Consumer Goods
+1876.HK,Budweiser Brewing Company APAC Ltd,Beverages,2022,71.43,97.33,7.0,55.0,0.0,1862000000.0,27925.0,37.5,14.52,11057000000.0,696277.0,88.13,Technology & Consumer Goods
+1876.HK,Budweiser Brewing Company APAC Ltd,Beverages,2023,71.43,95.96,7.0,49.0,26.5,1978000000.0,24646.5,34.36,14.52,11181000000.0,1666429.0,78.8,Technology & Consumer Goods
+1876.HK,Budweiser Brewing Company APAC Ltd,Beverages,2024,71.43,95.06,7.0,52.0,70.0,1764000000.0,27925.0,34.28,18.33,10444000000.0,1159034.0,85.94,Technology & Consumer Goods
+2330.TW,Taiwan Semiconductor Manufacturing Co Ltd,Semiconductors & Semiconductor Equipment,2017,50.0,64.89,8.0,42.0,33.0,21805671532.6,47785.0,67.54,30.436666666666667,58550590486.14,623711.0,74.39,Technology & Consumer Goods
+2330.TW,Taiwan Semiconductor Manufacturing Co Ltd,Semiconductors & Semiconductor Equipment,2018,70.0,80.6,10.0,32.0,35.0,22170563688.12,48677.0,61.87,16.67,60794131335.27,639852.0,72.64,Technology & Consumer Goods
+2330.TW,Taiwan Semiconductor Manufacturing Co Ltd,Semiconductors & Semiconductor Equipment,2019,77.78,83.45,9.0,32.0,32.0,22074757163.4,50024.5,64.97,30.436666666666667,60678546022.94,540408.0,76.09,Technology & Consumer Goods
+2330.TW,Taiwan Semiconductor Manufacturing Co Ltd,Semiconductors & Semiconductor Equipment,2020,66.67,83.55,9.0,25.0,4.0,32004222546.75,51671.0,49.05,26.19,79082542974.18,741178.0,76.11,Technology & Consumer Goods
+2330.TW,Taiwan Semiconductor Manufacturing Co Ltd,Semiconductors & Semiconductor Equipment,2021,50.0,43.91,10.0,35.0,31.0,38697162456.7,49539.375,44.76,32.69,105605573506.06,926379.0,76.17,Technology & Consumer Goods
+2330.TW,Taiwan Semiconductor Manufacturing Co Ltd,Semiconductors & Semiconductor Equipment,2022,50.0,41.27,10.0,36.31,32.66,50996627007.23,49539.375,34.34,10.0,125953064165.88,3185784.0,61.99,Technology & Consumer Goods
+2330.TW,Taiwan Semiconductor Manufacturing Co Ltd,Semiconductors & Semiconductor Equipment,2023,50.0,36.44,10.0,41.0,34.0,47378154194.64,49539.375,24.2,35.71,144786236457.86,5077993.0,63.08,Technology & Consumer Goods
+2330.TW,Taiwan Semiconductor Manufacturing Co Ltd,Semiconductors & Semiconductor Equipment,2024,50.0,31.91,10.0,44.0,36.0,60576488333.08,49539.375,24.2,61.36,163906268415.43,6533075.5,63.71,Technology & Consumer Goods
+300999.SZ,Yihai Kerry Arawana Holdings Co Ltd,Food Products,2017,50.0,83.175,9.0,36.77,31.776666666666667,1223254496.5471427,30756.5,91.1125,91.965,25325406983.488567,1207659.7533333332,24.290000000000003,Technology & Consumer Goods
+300999.SZ,Yihai Kerry Arawana Holdings Co Ltd,Food Products,2018,50.0,83.175,9.0,36.77,31.776666666666667,724851759.06,30756.5,91.1125,91.965,18881069886.11,1207659.7533333332,24.290000000000003,Technology & Consumer Goods
+300999.SZ,Yihai Kerry Arawana Holdings Co Ltd,Food Products,2019,50.0,83.175,9.0,36.77,31.776666666666667,1066159697.48,24949.5,91.1125,91.965,22644793833.18,1207659.7533333332,24.290000000000003,Technology & Consumer Goods
+300999.SZ,Yihai Kerry Arawana Holdings Co Ltd,Food Products,2020,50.0,83.175,9.0,36.77,31.776666666666667,1177921658.19,27437.0,91.1125,91.965,22054897153.04,1207659.7533333332,24.290000000000003,Technology & Consumer Goods
+300999.SZ,Yihai Kerry Arawana Holdings Co Ltd,Food Products,2021,55.56,77.36,9.0,36.77,31.776666666666667,2138634022.99,30295.5,95.05,96.43,24051078007.66,1207659.7533333332,20.76,Technology & Consumer Goods
+300999.SZ,Yihai Kerry Arawana Holdings Co Ltd,Food Products,2022,55.56,74.85,9.0,31.31,33.33,1615293052.69,32950.5,93.95,87.5,29327486972.81,1094601.87,22.35,Technology & Consumer Goods
+300999.SZ,Yihai Kerry Arawana Holdings Co Ltd,Food Products,2023,44.44,90.62,9.0,39.0,31.0,1118461114.66,34423.0,87.69,91.965,29891285014.21,1232526.89,26.68,Technology & Consumer Goods
+300999.SZ,Yihai Kerry Arawana Holdings Co Ltd,Food Products,2024,44.44,89.87,9.0,40.0,31.0,721460170.76,34483.5,87.76,91.965,30427238017.41,1295850.5,27.37,Technology & Consumer Goods
+3711.TW,ASE Technology Holding Co Ltd,Semiconductors & Semiconductor Equipment,2017,26.925,31.05666666666666,13.0,42.56,33.73833333333334,1830677803.25,91928.66666666669,52.97833333333335,34.09,9456994100.2,9741219.833333334,91.56166666666668,Technology & Consumer Goods
+3711.TW,ASE Technology Holding Co Ltd,Semiconductors & Semiconductor Equipment,2018,26.925,31.05666666666666,13.0,42.56,33.73833333333334,2255799005.33,81322.0,52.97833333333335,34.09,13703441350.65,9741219.833333334,91.56166666666668,Technology & Consumer Goods
+3711.TW,ASE Technology Holding Co Ltd,Semiconductors & Semiconductor Equipment,2019,30.77,38.73,13.0,19.0,0.0,2454081881.71,95209.5,60.54,34.09,14547306329.2,9619786.0,94.93,Technology & Consumer Goods
+3711.TW,ASE Technology Holding Co Ltd,Semiconductors & Semiconductor Equipment,2020,30.77,38.16,13.0,37.0,3.0,3048010222.62,99254.5,57.59,34.09,15394203918.08,11549300.0,93.89,Technology & Consumer Goods
+3711.TW,ASE Technology Holding Co Ltd,Semiconductors & Semiconductor Equipment,2021,30.77,33.65,13.0,51.36,32.43,4182216332.27,91928.66666666669,53.63,34.09,17693092126.15,12552865.0,93.93,Technology & Consumer Goods
+3711.TW,ASE Technology Holding Co Ltd,Semiconductors & Semiconductor Equipment,2022,23.08,29.52,13.0,47.0,53.0,4399400137.36,91928.66666666669,50.9,34.09,16679197926.55,8329083.0,87.33,Technology & Consumer Goods
+3711.TW,ASE Technology Holding Co Ltd,Semiconductors & Semiconductor Equipment,2023,23.08,25.8,13.0,51.0,57.0,3172468906.85,91928.66666666669,49.2,34.09,16209063066.29,8947514.0,89.24,Technology & Consumer Goods
+3711.TW,ASE Technology Holding Co Ltd,Semiconductors & Semiconductor Equipment,2024,23.08,20.48,13.0,50.0,57.0,2986193015.1,91928.66666666669,46.01,34.09,16690518163.79,7448771.0,90.05,Technology & Consumer Goods
+601231.SS,Universal Scientific Industrial Shanghai Co Ltd,Electronic Equipment Instruments & Components,2017,44.446000000000005,12.476,9.2,38.92,41.69,204982074.03,15342.0,20.476,95.95,1294237646.55,491276.4,74.45599999999999,Technology & Consumer Goods
+601231.SS,Universal Scientific Industrial Shanghai Co Ltd,Electronic Equipment Instruments & Components,2018,44.446000000000005,12.476,9.2,38.92,41.69,274738338.23,15918.5,20.476,95.95,1471259961.88,491276.4,74.45599999999999,Technology & Consumer Goods
+601231.SS,Universal Scientific Industrial Shanghai Co Ltd,Electronic Equipment Instruments & Components,2019,44.446000000000005,12.476,9.2,38.92,41.69,257374206.97,17538.0,20.476,95.95,1582674087.7,491276.4,74.45599999999999,Technology & Consumer Goods
+601231.SS,Universal Scientific Industrial Shanghai Co Ltd,Electronic Equipment Instruments & Components,2020,11.11,13.42,10.0,30.0,38.0,254066105.03,18607.5,37.5,95.95,1823266129.45,417860.0,79.09,Technology & Consumer Goods
+601231.SS,Universal Scientific Industrial Shanghai Co Ltd,Electronic Equipment Instruments & Components,2021,11.11,12.41,9.0,29.0,39.0,394037341.0,18597.0,17.05,95.95,2591136657.47,572074.0,80.92,Technology & Consumer Goods
+601231.SS,Universal Scientific Industrial Shanghai Co Ltd,Electronic Equipment Instruments & Components,2022,55.56,12.65,9.0,43.6,37.45,494660641.36,21657.0,16.05,95.95,3302092868.5,569222.0,69.68,Technology & Consumer Goods
+601231.SS,Universal Scientific Industrial Shanghai Co Ltd,Electronic Equipment Instruments & Components,2023,77.78,12.18,9.0,42.0,47.0,628717356.32,24271.0,15.96,95.95,3543519265.79,479808.0,68.02,Technology & Consumer Goods
+601231.SS,Universal Scientific Industrial Shanghai Co Ltd,Electronic Equipment Instruments & Components,2024,66.67,11.72,9.0,50.0,47.0,478944337.68,23391.5,15.82,95.95,3602023838.37,417418.0,74.57,Technology & Consumer Goods
+6758.T,Sony Group Corp,Household Durables,2017,9.204,73.03,11.0,47.0,74.0,6502567785.96,126850.0,93.42,90.0,39028739450.53,137625.0,26.56,Technology & Consumer Goods
+6758.T,Sony Group Corp,Household Durables,2018,9.204,65.78,12.0,55.0,69.0,10274863542.25,122850.0,97.58,90.0,47067880670.05,242247.0,40.79,Technology & Consumer Goods
+6758.T,Sony Group Corp,Household Durables,2019,9.204,91.26,12.0,65.0,55.0,10823637675.93,115850.0,98.56,90.0,52372266329.84,2288000.0,37.5,Technology & Consumer Goods
+6758.T,Sony Group Corp,Household Durables,2020,7.69,99.04,13.0,73.0,84.0,11857695526.83,113050.0,95.7,90.0,58330242722.96,215803.0,50.0,Technology & Consumer Goods
+6758.T,Sony Group Corp,Household Durables,2021,8.33,99.26,12.0,67.66,91.11,12139304426.38,110700.0,92.74,90.0,82973152664.86,1262000.0,41.78,Technology & Consumer Goods
+6758.T,Sony Group Corp,Household Durables,2022,10.0,99.38,10.0,62.0,92.0,12656666118.69,109300.0,86.86,90.0,86707685352.62,1472974.0,35.54,Technology & Consumer Goods
+6758.T,Sony Group Corp,Household Durables,2023,10.0,98.96,10.0,59.0,63.0,17118058588.75,110950.0,89.48,90.0,79280985013.93,1462334.0,38.76,Technology & Consumer Goods
+6758.T,Sony Group Corp,Household Durables,2024,10.0,99.13,10.0,64.0,76.0,15255528385.43,113000.0,89.91,90.0,78279941841.25,1735760.0,37.36,Technology & Consumer Goods
+ACN.N,Accenture PLC,IT Services,2017,46.15,98.81,13.0,79.0,88.0,5703636000.0,404500.0,54.76,58.333333333333336,9735270000.0,17664000.0,81.05,Technology & Consumer Goods
+ACN.N,Accenture PLC,IT Services,2018,41.67,96.59,12.0,75.0,88.0,6492437000.0,442000.0,55.13,58.333333333333336,10749601000.0,19125000.0,84.35,Technology & Consumer Goods
+ACN.N,Accenture PLC,IT Services,2019,75.0,94.34,12.0,66.0,93.0,6923020000.0,475500.0,56.25,75.0,14850349000.0,19278000.0,83.85,Technology & Consumer Goods
+ACN.N,Accenture PLC,IT Services,2020,90.91,91.82,11.0,64.0,67.0,7235362000.0,499000.0,64.29,50.0,17561045000.0,18696000.0,83.79,Technology & Consumer Goods
+ACN.N,Accenture PLC,IT Services,2021,100.0,84.82,11.0,66.0,100.0,8446286000.0,565000.0,73.37,50.0,20162667000.0,19228000.0,88.26,Technology & Consumer Goods
+ACN.N,Accenture PLC,IT Services,2022,100.0,87.27,10.0,62.36,73.33,10397826000.0,672500.0,68.18,50.0,22802156000.0,37440000.0,86.82,Technology & Consumer Goods
+ACN.N,Accenture PLC,IT Services,2023,100.0,94.44,10.0,81.0,94.0,10934651000.0,727000.0,84.26,50.0,26606496000.0,43981000.0,87.17,Technology & Consumer Goods
+ACN.N,Accenture PLC,IT Services,2024,100.0,94.55,10.0,77.0,88.0,11112284000.0,753500.0,83.64,75.0,30193105000.0,41048000.0,89.01,Technology & Consumer Goods
+ADSGn.DE,Adidas AG,Textiles Apparel & Luxury Goods,2017,8.33,83.15,12.0,40.73571428571428,79.90714285714286,3039790789.46,57895.0,35.16,91.395,8565156368.09,1175000.0,30.36,Technology & Consumer Goods
+ADSGn.DE,Adidas AG,Textiles Apparel & Luxury Goods,2018,16.67,53.19,18.0,31.0,79.0,3260620240.39,56952.0,32.98,91.395,9324249931.19,1175000.0,22.41,Technology & Consumer Goods
+ADSGn.DE,Adidas AG,Textiles Apparel & Luxury Goods,2019,16.67,44.69,18.0,46.0,79.0,4295675178.8,58274.5,77.68,91.395,13259197811.81,1175000.0,24.29,Technology & Consumer Goods
+ADSGn.DE,Adidas AG,Textiles Apparel & Luxury Goods,2020,16.67,40.52,18.0,47.0,71.0,2547630679.04,57127.5,79.36,91.395,15365168539.33,1175000.0,25.49,Technology & Consumer Goods
+ADSGn.DE,Adidas AG,Textiles Apparel & Luxury Goods,2021,25.0,52.79,16.0,42.0,83.0,3519541641.09,54296.0,74.62,91.0,14969420003.18,1175000.0,35.59,Technology & Consumer Goods
+ADSGn.DE,Adidas AG,Textiles Apparel & Luxury Goods,2022,18.75,57.43,16.0,30.0,83.0,2180008561.64,52823.5,31.08,90.43,12639126712.33,1175000.0,40.0,Technology & Consumer Goods
+ADSGn.DE,Adidas AG,Textiles Apparel & Luxury Goods,2023,18.75,80.65,16.0,48.15,82.35,1581450785.21,51669.0,67.74,90.82,11574498140.44,1175000.0,34.9,Technology & Consumer Goods
+ADSGn.DE,Adidas AG,Textiles Apparel & Luxury Goods,2024,25.0,79.86,16.0,41.0,82.0,2575836007.87,56798.0,73.02,93.33,11858370431.72,1175000.0,45.31,Technology & Consumer Goods
+AEFES.IS,Anadolu Efes Biracilik ve Malt Sanayii AS,Beverages,2017,7.69,19.23,13.0,9.0,0.0,577558722.62,14956.0,75.0,15.0,6380333861.18,646346.4366666666,29.254,Technology & Consumer Goods
+AEFES.IS,Anadolu Efes Biracilik ve Malt Sanayii AS,Beverages,2018,8.33,15.0,12.0,26.0,0.0,539947236.04,15874.0,68.33,15.0,5741007243.22,646346.4366666666,29.254,Technology & Consumer Goods
+AEFES.IS,Anadolu Efes Biracilik ve Malt Sanayii AS,Beverages,2019,8.33,10.71,12.0,8.0,0.0,680249836.08,17349.0,74.11,15.0,5872718270.31,70647.7,29.254,Technology & Consumer Goods
+AEFES.IS,Anadolu Efes Biracilik ve Malt Sanayii AS,Beverages,2020,8.33,9.68,12.0,32.0,0.0,672176130.25,16967.5,67.74,15.0,5002602529.6,173900.0,57.69,Technology & Consumer Goods
+AEFES.IS,Anadolu Efes Biracilik ve Malt Sanayii AS,Beverages,2021,9.09,25.0,11.0,51.77,21.43,514744181.86,16749.0,63.58,15.0,4549291684.5,1562984.52,20.77,Technology & Consumer Goods
+AEFES.IS,Anadolu Efes Biracilik ve Malt Sanayii AS,Beverages,2022,8.33,22.86,12.0,58.0,20.0,1389471326.98,17580.5,63.81,15.0,10521769609.86,1644512.0,23.13,Technology & Consumer Goods
+AEFES.IS,Anadolu Efes Biracilik ve Malt Sanayii AS,Beverages,2023,8.33,20.16,12.0,53.0,19.0,1527287000.54,18755.5,64.11,15.0,9254745696.59,174898.4,22.28,Technology & Consumer Goods
+AEFES.IS,Anadolu Efes Biracilik ve Malt Sanayii AS,Beverages,2024,9.09,25.19,11.0,59.0,20.0,1168298316.12,19479.0,66.79,15.0,7031273921.04,251136.0,22.4,Technology & Consumer Goods
+AMS.S,ams-OSRAM AG,Semiconductors & Semiconductor Equipment,2017,36.36,15.63,11.0,36.0,0.0,259760559.49,6671.5,43.75,92.128,2503499238.25,164502.875,50.0,Technology & Consumer Goods
+AMS.S,ams-OSRAM AG,Semiconductors & Semiconductor Equipment,2018,36.36,8.33,11.0,41.0,0.0,259844939.9,10526.0,42.11,92.128,3570072942.47,164502.875,99.06,Technology & Consumer Goods
+AMS.S,ams-OSRAM AG,Semiconductors & Semiconductor Equipment,2019,45.45,51.67,11.0,32.0,0.0,722573593.7,9246.5,41.94,92.128,4369531197.45,164502.875,99.28,Technology & Consumer Goods
+AMS.S,ams-OSRAM AG,Semiconductors & Semiconductor Equipment,2020,45.45,50.0,11.0,45.0,0.0,1138251099.17,19181.0,39.71,91.67,8085002442.6,164502.875,95.0,Technology & Consumer Goods
+AMS.S,ams-OSRAM AG,Semiconductors & Semiconductor Equipment,2021,50.0,58.57,10.0,49.0,0.0,1381215469.61,27126.0,38.89,91.67,7441511493.08,148765.0,91.12,Technology & Consumer Goods
+AMS.S,ams-OSRAM AG,Semiconductors & Semiconductor Equipment,2022,38.46,72.86,13.0,60.47,60.0,1526113013.7,23480.0,37.14,92.86,6264982876.71,173942.9,81.16,Technology & Consumer Goods
+AMS.S,ams-OSRAM AG,Semiconductors & Semiconductor Equipment,2023,30.77,75.0,13.0,54.0,47.0,796795161.84,21419.5,37.5,90.0,5045633628.73,143750.4,82.85,Technology & Consumer Goods
+AMS.S,ams-OSRAM AG,Semiconductors & Semiconductor Equipment,2024,46.15,72.22,13.0,55.0,47.0,1801428719.33,16807.214285714286,29.17,94.44,3878248265.87,191553.2,85.48,Technology & Consumer Goods
+ANDINAB.SN,Embotelladora Andina SA,Beverages,2017,13.33,51.19,15.0,9.0,50.0,528053261.21,16110.0,17.57,68.636,2509862804.85,278289.0,6.9,Technology & Consumer Goods
+ANDINAB.SN,Embotelladora Andina SA,Beverages,2018,14.29,52.33,14.0,13.0,67.0,447349677.42,16011.0,19.77,68.636,2343970852.28,230235.0,8.82,Technology & Consumer Goods
+ANDINAB.SN,Embotelladora Andina SA,Beverages,2019,14.29,50.0,14.0,10.0,60.0,485513252.16,16132.5,17.44,68.636,2317082238.19,329391.0,15.85,Technology & Consumer Goods
+ANDINAB.SN,Embotelladora Andina SA,Beverages,2020,14.29,45.35,15.0,18.0,60.0,492307774.57,16760.5,18.18,50.0,2529121348.36,288897.0,6.73,Technology & Consumer Goods
+ANDINAB.SN,Embotelladora Andina SA,Beverages,2021,7.69,45.35,13.0,13.66,73.33,450330392.43,17995.0,23.91,50.0,2556766563.27,196277.0,11.54,Technology & Consumer Goods
+ANDINAB.SN,Embotelladora Andina SA,Beverages,2022,7.14,28.72,14.0,23.0,78.0,547515187.54,17560.0,10.64,81.25,2388047901.63,317170.0,14.38,Technology & Consumer Goods
+ANDINAB.SN,Embotelladora Andina SA,Beverages,2023,7.14,20.21,14.0,40.0,68.0,516688772.17,16761.5,8.51,93.75,2216457254.31,304889.0,15.76,Technology & Consumer Goods
+ANDINAB.SN,Embotelladora Andina SA,Beverages,2024,7.14,13.83,14.0,40.0,70.0,555868944.19,16761.5,8.51,68.18,2150901763.05,402455.0,16.15,Technology & Consumer Goods
+ASML.AS,ASML Holding NV,Semiconductors & Semiconductor Equipment,2017,50.0,87.27,8.0,43.16571428571428,11.47,3931934597.71,15105.0,18.0,50.188,18228428161.85,1425586.4,3.66,Technology & Consumer Goods
+ASML.AS,ASML Holding NV,Semiconductors & Semiconductor Equipment,2018,50.0,89.66,8.0,37.0,13.0,4238576933.66,18131.5,20.19,50.188,18475204147.17,1425586.4,6.6,Technology & Consumer Goods
+ASML.AS,ASML Holding NV,Semiconductors & Semiconductor Equipment,2019,62.5,83.54,8.0,40.0,21.0,4060601304.84,21631.5,18.67,50.188,19285810371.5,1425586.4,13.77,Technology & Consumer Goods
+ASML.AS,ASML Holding NV,Semiconductors & Semiconductor Equipment,2020,62.5,80.36,8.0,38.0,0.0,6382633121.64,24916.5,17.11,38.1,24631411822.18,1120500.0,9.44,Technology & Consumer Goods
+ASML.AS,ASML Holding NV,Semiconductors & Semiconductor Equipment,2021,66.67,60.92,9.0,36.0,0.0,8810563172.13,28237.5,17.81,35.0,18865016028.92,786044.0,11.21,Technology & Consumer Goods
+ASML.AS,ASML Holding NV,Semiconductors & Semiconductor Equipment,2022,75.0,69.02,8.0,51.16,14.29,8824272260.27,32986.5,16.85,59.09,16850920376.71,894418.0,13.01,Technology & Consumer Goods
+ASML.AS,ASML Holding NV,Semiconductors & Semiconductor Equipment,2023,77.78,85.64,9.0,51.0,13.0,11119044728.68,38210.5,17.55,62.5,23251630560.74,1882150.0,15.77,Technology & Consumer Goods
+ASML.AS,ASML Holding NV,Semiconductors & Semiconductor Equipment,2024,77.78,79.44,9.0,49.0,19.0,10678124029.4,41547.5,12.78,56.25,24298995755.25,2444820.0,20.22,Technology & Consumer Goods
+ATOS.PA,Atos SE,IT Services,2017,54.55,83.51,11.0,62.0,18.0,1921761975.02,90679.0,22.16,16.1175,8612060795.82,3300000.0,30.0,Technology & Consumer Goods
+ATOS.PA,Atos SE,IT Services,2018,50.0,87.96,12.0,65.0,19.0,1445086705.2,106049.5,21.76,2.5,15504862831.45,3171376.26,41.3,Technology & Consumer Goods
+ATOS.PA,Atos SE,IT Services,2019,50.0,84.31,12.0,65.0,19.0,1882160392.8,115213.5,24.51,16.0,14022599376.72,3707529.6,36.34,Technology & Consumer Goods
+ATOS.PA,Atos SE,IT Services,2020,41.67,34.06,12.0,54.0,21.0,1862481680.51,106373.5,25.31,11.76,14604298974.11,4170653.52,41.55,Technology & Consumer Goods
+ATOS.PA,Atos SE,IT Services,2021,38.46,63.59,13.0,55.0,24.0,942409567.33,106782.5,34.62,16.1175,11705659004.62,4794409.44,44.78,Technology & Consumer Goods
+ATOS.PA,Atos SE,IT Services,2022,41.67,76.65,12.0,56.7,23.89,989940068.49,109966.0,43.15,16.1175,10353167808.22,5489239.42,41.61,Technology & Consumer Goods
+ATOS.PA,Atos SE,IT Services,2023,50.0,94.44,14.0,54.0,23.0,1007581693.58,102968.5,57.83,16.1175,6110602231.47,6927282.0,42.04,Technology & Consumer Goods
+ATOS.PA,Atos SE,IT Services,2024,50.0,75.78,10.0,52.0,24.0,1435917440.4185717,105433.21428571428,25.26,34.21,11559035860.344286,5096954.79,44.95,Technology & Consumer Goods
+BATO.KL,British American Tobacco (Malaysia) Bhd,Tobacco,2017,37.5,68.52,8.0,48.0,20.0,165610286.84,582.5,44.55,50.0,187957715.13,5703.0,14.2,Technology & Consumer Goods
+BATO.KL,British American Tobacco (Malaysia) Bhd,Tobacco,2018,28.57,74.14,7.0,53.0,13.0,155681113.8,489.0,72.5,92.86,201372154.96,11778.0,16.84,Technology & Consumer Goods
+BATO.KL,British American Tobacco (Malaysia) Bhd,Tobacco,2019,28.57,64.41,7.0,49.0,13.0,123965028.12,466.5,97.54,78.57,204397652.24,7568.0,27.11,Technology & Consumer Goods
+BATO.KL,British American Tobacco (Malaysia) Bhd,Tobacco,2020,28.57,62.31,7.0,55.0,15.0,94668656.72,424.5,99.26,69.46428571428571,225911442.79,12832.0,28.89,Technology & Consumer Goods
+BATO.KL,British American Tobacco (Malaysia) Bhd,Tobacco,2021,28.57,68.18,7.0,54.0,21.0,104182756.96,393.0,94.27,60.61,282765129.68,13326.0,23.44,Technology & Consumer Goods
+BATO.KL,British American Tobacco (Malaysia) Bhd,Tobacco,2022,14.29,73.28,7.0,46.3,16.67,100064090.91,393.0,89.1,84.15,251340454.55,6695.0,24.91,Technology & Consumer Goods
+BATO.KL,British American Tobacco (Malaysia) Bhd,Tobacco,2023,14.29,65.4,7.0,38.0,17.0,65275163.4,339.5,49.61,37.8,211159912.85,7236.0,33.53,Technology & Consumer Goods
+BATO.KL,British American Tobacco (Malaysia) Bhd,Tobacco,2024,14.29,59.04,7.0,46.0,17.0,67193375.11,441.1428571428572,45.35,82.26,220167860.34,11186.0,43.79,Technology & Consumer Goods
+BATS.L,British American Tobacco plc,Tobacco,2017,45.45,71.2,11.0,31.0,69.0,10806939790.29,52789.0,36.7,68.75,148613663387.74,931695.0,19.89,Technology & Consumer Goods
+BATS.L,British American Tobacco plc,Tobacco,2018,53.85,78.55,13.0,32.0,62.0,13886053987.86,56235.5,36.72,65.0,143806449966.83,931695.0,21.94,Technology & Consumer Goods
+BATS.L,British American Tobacco plc,Tobacco,2019,50.0,68.18,10.0,50.0,62.0,15880403076.11,54947.5,35.43,63.89,144592946168.13,931695.0,30.28,Technology & Consumer Goods
+BATS.L,British American Tobacco plc,Tobacco,2020,54.55,50.4,11.0,58.0,69.0,16849200814.91,54257.0,44.48,64.81,145513214925.41,931695.0,33.89,Technology & Consumer Goods
+BATS.L,British American Tobacco plc,Tobacco,2021,58.33,66.51,12.0,53.0,67.0,16160454576.2,53569.0,48.82,64.06,144218358925.79,931695.0,43.53,Technology & Consumer Goods
+BATS.L,British American Tobacco plc,Tobacco,2022,60.0,79.03,10.0,53.57,92.31,15253130103.43,51103.0,42.0,83.93,143137966491.26,931695.0,42.15,Technology & Consumer Goods
+BATS.L,British American Tobacco plc,Tobacco,2023,63.64,60.12,11.0,51.0,86.0,17098814933.62,48561.0,35.5,77.42,117222285867.03,931695.0,48.69,Technology & Consumer Goods
+BATS.L,British American Tobacco plc,Tobacco,2024,63.64,82.76,11.0,56.0,87.0,15100713123.98,47857.0,35.53,87.84,108069560865.76,931695.0,49.41,Technology & Consumer Goods
+BOSSn.DE,Hugo Boss AG,Textiles Apparel & Luxury Goods,2017,30.77,32.45,13.0,45.221428571428575,41.88285714285714,518378889.82,13781.0,32.98,60.71,1148929772.92,223388.936,46.55,Technology & Consumer Goods
+BOSSn.DE,Hugo Boss AG,Textiles Apparel & Luxury Goods,2018,33.33,35.84,12.0,42.0,37.0,590057700.84,13891.5,33.04,60.71,1251524094.0,223388.936,38.57,Technology & Consumer Goods
+BOSSn.DE,Hugo Boss AG,Textiles Apparel & Luxury Goods,2019,33.33,36.78,12.0,42.0,42.0,561392100.19,14335.0,32.85,60.71,1323606523.53,223388.936,42.16,Technology & Consumer Goods
+BOSSn.DE,Hugo Boss AG,Textiles Apparel & Luxury Goods,2020,33.33,39.59,12.0,35.0,44.0,792500504.45,14659.0,31.22,60.71,2438232854.29,351200.0,44.92,Technology & Consumer Goods
+BOSSn.DE,Hugo Boss AG,Textiles Apparel & Luxury Goods,2021,23.08,85.33,13.0,43.55,41.18,249925500.73,14196.0,17.81,60.71,2307515876.89,124248.0,44.67,Technology & Consumer Goods
+BOSSn.DE,Hugo Boss AG,Textiles Apparel & Luxury Goods,2022,16.67,87.99,12.0,46.0,44.0,610421071.78,13900.0,29.75,60.71,2105640815.77,121157.18,46.35,Technology & Consumer Goods
+BOSSn.DE,Hugo Boss AG,Textiles Apparel & Luxury Goods,2023,16.67,88.67,12.0,52.0,44.0,723950128.42,15485.5,28.78,60.71,2193806720.89,257551.5,58.59,Technology & Consumer Goods
+BOSSn.DE,Hugo Boss AG,Textiles Apparel & Luxury Goods,2024,15.38,74.19,13.0,56.0,41.0,829728626.14,17834.0,25.45,60.71,2687139814.38,262788.0,57.63,Technology & Consumer Goods
+CALN.S,Calida Holding AG,Textiles Apparel & Luxury Goods,2017,23.81,49.306666666666665,7.0,47.333333333333336,14.666666666666666,31700708.2,2921.0,84.92333333333333,11.47,211510828.29,2998.0,91.61333333333334,Technology & Consumer Goods
+CALN.S,Calida Holding AG,Textiles Apparel & Luxury Goods,2018,23.81,49.306666666666665,7.0,47.333333333333336,14.666666666666666,31596698.59,2966.5,84.92333333333333,11.47,218265742.82,2998.0,91.61333333333334,Technology & Consumer Goods
+CALN.S,Calida Holding AG,Textiles Apparel & Luxury Goods,2019,23.81,49.306666666666665,7.0,47.333333333333336,14.666666666666666,51294688.99,2965.5,84.92333333333333,11.47,282745401.94,2998.0,91.61333333333334,Technology & Consumer Goods
+CALN.S,Calida Holding AG,Textiles Apparel & Luxury Goods,2020,23.81,49.306666666666665,7.0,47.333333333333336,14.666666666666666,42839227.21,2854.5,84.92333333333333,11.47,250755846.8,2998.0,91.61333333333334,Technology & Consumer Goods
+CALN.S,Calida Holding AG,Textiles Apparel & Luxury Goods,2021,23.81,49.306666666666665,7.0,47.333333333333336,14.666666666666666,51012935.76,2591.0,84.92333333333333,11.47,238403858.8,2998.0,91.61333333333334,Technology & Consumer Goods
+CALN.S,Calida Holding AG,Textiles Apparel & Luxury Goods,2022,28.57,42.82,7.0,43.0,0.0,51699480.74,2478.0,80.43,11.47,263291864.99,2998.0,92.67,Technology & Consumer Goods
+CALN.S,Calida Holding AG,Textiles Apparel & Luxury Goods,2023,28.57,36.96,7.0,49.0,23.0,23348781.94,2516.5,86.41,11.47,199345216.87,2998.0,91.15,Technology & Consumer Goods
+CALN.S,Calida Holding AG,Textiles Apparel & Luxury Goods,2024,14.29,68.14,7.0,50.0,21.0,22005070.55,2242.0,87.93,11.47,133119488.54,2998.0,91.02,Technology & Consumer Goods
+CAPP.PA,Capgemini SE,IT Services,2017,20.0,50.52,15.0,45.0,17.0,1982941663.37,196387.5,73.2,10.358333333333333,12394285097.35,6500000.0,44.74,Technology & Consumer Goods
+CAPP.PA,Capgemini SE,IT Services,2018,18.75,15.28,16.0,52.0,24.0,1964629782.55,205505.5,69.91,10.358333333333333,12427745664.74,8700000.0,53.48,Technology & Consumer Goods
+CAPP.PA,Capgemini SE,IT Services,2019,8.33,7.52,12.0,66.0,17.0,2365311750.33,215313.5,69.28,16.0,14027083380.04,8200000.0,46.89,Technology & Consumer Goods
+CAPP.PA,Capgemini SE,IT Services,2020,21.43,44.06,14.0,58.0,39.0,2939667806.55,244541.5,79.69,5.88,18516121152.91,9200000.0,52.05,Technology & Consumer Goods
+CAPP.PA,Capgemini SE,IT Services,2021,13.33,27.99,15.0,49.11,42.78,3105745401.63,297226.5,66.92,10.61,18326398835.91,10900000.0,59.42,Technology & Consumer Goods
+CAPP.PA,Capgemini SE,IT Services,2022,35.71,43.15,14.0,53.0,62.0,3508133561.64,342125.5,63.2,10.94,18503852739.73,12800000.0,58.71,Technology & Consumer Goods
+CAPP.PA,Capgemini SE,IT Services,2023,33.33,25.76,15.0,46.0,82.0,3624204032.53,350005.0,51.01,1.61,18836149338.4,17400000.0,65.45,Technology & Consumer Goods
+CAPP.PA,Capgemini SE,IT Services,2024,33.33,22.92,15.0,52.0,83.0,2439175898.13,264443.5714285714,54.43,17.11,16147376601.297148,17800000.0,68.56,Technology & Consumer Goods
+CARLb.CO,Carlsberg A/S,Beverages,2017,60.95333333333334,56.9,15.0,46.63857142857143,35.214285714285715,2122628584.32,41746.0,55.17,74.82,11881497719.25,630930.0,77.59,Technology & Consumer Goods
+CARLb.CO,Carlsberg A/S,Beverages,2018,60.95333333333334,53.23,15.0,51.0,27.0,2035111431.95,41133.5,19.35,74.82,11039058780.16,621450.0,69.12,Technology & Consumer Goods
+CARLb.CO,Carlsberg A/S,Beverages,2019,60.95333333333334,36.9,14.0,43.0,38.0,2202491744.22,41042.5,53.57,74.82,10661212848.99,653392.0,74.39,Technology & Consumer Goods
+CARLb.CO,Carlsberg A/S,Beverages,2020,60.95333333333334,44.12,15.0,37.0,43.0,2251821942.09,40629.0,21.57,74.82,12082594708.16,742464.0,66.35,Technology & Consumer Goods
+CARLb.CO,Carlsberg A/S,Beverages,2021,60.95333333333334,47.66,15.0,40.0,30.0,2313431694.82,35534.0,17.81,74.82,11876462044.19,600150.0,61.54,Technology & Consumer Goods
+CARLb.CO,Carlsberg A/S,Beverages,2022,100.0,27.21,15.0,48.47,37.5,2164049116.85,30946.0,23.53,74.82,9122029164.93,511875.0,58.75,Technology & Consumer Goods
+CARLb.CO,Carlsberg A/S,Beverages,2023,40.0,48.53,15.0,48.0,38.0,2154659323.09,30939.0,22.79,82.14,9601433182.32,493360.0,58.15,Technology & Consumer Goods
+CARLb.CO,Carlsberg A/S,Beverages,2024,42.86,57.58,14.0,59.0,33.0,2099497375.8,31460.0,53.79,67.5,9545972064.09,558792.0,59.9,Technology & Consumer Goods
+CCH.L,Coca Cola HBC AG,Beverages,2017,84.62,43.84,13.0,64.4042857142857,53.20857142857143,1127865548.64,30255.0,90.79,91.67,5564232674.75,599902.0,60.34,Technology & Consumer Goods
+CCH.L,Coca Cola HBC AG,Beverages,2018,83.33,77.5,12.0,45.0,52.0,1125332599.32,29155.5,92.53,96.43,5414258188.82,597368.1,48.53,Technology & Consumer Goods
+CCH.L,Coca Cola HBC AG,Beverages,2019,84.62,71.88,13.0,66.0,53.0,1273008542.03,28636.5,88.97,96.43,6753917897.9,779868.0,60.98,Technology & Consumer Goods
+CCH.L,Coca Cola HBC AG,Beverages,2020,84.62,64.05,13.0,68.0,46.0,1266121152.91,28055.5,89.49,93.75,6788959452.86,647590.0,54.81,Technology & Consumer Goods
+CCH.L,Coca Cola HBC AG,Beverages,2021,84.62,65.84,13.0,66.0,69.0,1261055407.77,27254.5,80.43,86.24,6882772889.53,720146.0,46.15,Technology & Consumer Goods
+CCH.L,Coca Cola HBC AG,Beverages,2022,69.23,82.61,13.0,64.83,73.46,1399400684.93,29915.0,86.41,77.23,7283283390.41,796942.0,50.0,Technology & Consumer Goods
+CCH.L,Coca Cola HBC AG,Beverages,2023,84.62,73.53,13.0,69.0,36.0,1623939169.88,32871.5,84.98,82.87,7296083343.45,963204.0,48.37,Technology & Consumer Goods
+CCH.L,Coca Cola HBC AG,Beverages,2024,92.31,84.83,13.0,72.0,43.0,1624702350.14,29449.071428571428,72.0,90.23,7540739206.96,837292.0,29.69,Technology & Consumer Goods
+CFR.S,Compagnie Financiere Richemont SA,Textiles Apparel & Luxury Goods,2017,84.21,13.13,19.0,30.0,41.0,2315081038.49,28695.0,24.14,64.57428571428571,18815624134.77,275984.325,34.29,Technology & Consumer Goods
+CFR.S,Compagnie Financiere Richemont SA,Textiles Apparel & Luxury Goods,2018,78.95,41.8,19.0,43.0,47.0,2958280968.93,28660.0,61.4,58.33,28125231019.44,275984.325,38.24,Technology & Consumer Goods
+CFR.S,Compagnie Financiere Richemont SA,Textiles Apparel & Luxury Goods,2019,80.0,56.21,20.0,49.0,50.0,3107122826.7,32190.0,84.71,93.75,27031968592.26,256092.0,43.22,Technology & Consumer Goods
+CFR.S,Compagnie Financiere Richemont SA,Textiles Apparel & Luxury Goods,2020,80.0,60.4,20.0,57.0,47.0,3379287526.19,35648.5,62.32,94.95,29780522774.9,335175.8,42.0,Technology & Consumer Goods
+CFR.S,Compagnie Financiere Richemont SA,Textiles Apparel & Luxury Goods,2021,80.0,53.14,20.0,53.72,66.67,3380010789.76,35208.5,25.97,80.36,36866980977.18,240930.76,42.19,Technology & Consumer Goods
+CFR.S,Compagnie Financiere Richemont SA,Textiles Apparel & Luxury Goods,2022,75.0,56.86,20.0,55.0,43.0,5831258644.54,33022.0,24.14,97.22,38582572614.11,165290.88,57.42,Technology & Consumer Goods
+CFR.S,Compagnie Financiere Richemont SA,Textiles Apparel & Luxury Goods,2023,64.71,60.95,17.0,50.0,38.0,7068145113.21,32621.5,23.5,18.75,37600667685.54,296939.51,56.11,Technology & Consumer Goods
+CFR.S,Compagnie Financiere Richemont SA,Textiles Apparel & Luxury Goods,2024,57.89,63.89,19.0,49.0,43.0,6795246781.0,35538.0,22.34,8.66,39898330329.29,361477.0,56.11,Technology & Consumer Goods
+CPRI.MI,Davide Campari Milano NV,Beverages,2017,66.67,75.45,12.0,44.52857142857143,42.36714285714286,510550497.23,4096.0,44.79,97.62,3903264116.31,22839.0,98.28,Technology & Consumer Goods
+CPRI.MI,Davide Campari Milano NV,Beverages,2018,54.55,83.62,11.0,29.0,14.0,497063950.82,3822.5,22.13,97.62,3975250022.94,100403.0,83.82,Technology & Consumer Goods
+CPRI.MI,Davide Campari Milano NV,Beverages,2019,100.0,75.61,6.0,29.0,14.0,530457592.54,3663.0,20.95,97.62,4140192363.74,75415.0,85.37,Technology & Consumer Goods
+CPRI.MI,Davide Campari Milano NV,Beverages,2020,100.0,70.83,9.0,37.0,43.0,466047874.94,3742.5,20.64,97.62,4324377137.27,91848.17,77.88,Technology & Consumer Goods
+CPRI.MI,Davide Campari Milano NV,Beverages,2021,100.0,46.55,10.0,58.0,47.0,568856148.97,3813.0,14.86,97.62,4442057158.45,77794.05,83.08,Technology & Consumer Goods
+CPRI.MI,Davide Campari Milano NV,Beverages,2022,100.0,38.59,10.0,52.7,78.57,694563356.16,4004.0,16.85,97.62,4795911815.07,66943.55,83.13,Technology & Consumer Goods
+CPRI.MI,Davide Campari Milano NV,Beverages,2023,90.91,27.66,11.0,51.0,50.0,800437023.39,4465.0,17.55,97.62,5717391544.26,79305.9,83.15,Technology & Consumer Goods
+CPRI.MI,Davide Campari Milano NV,Beverages,2024,90.91,19.44,11.0,55.0,50.0,751112951.65,4939.0,12.78,97.62,6956103116.26,77732.0,80.73,Technology & Consumer Goods
+CRAYN.OL,Crayon Group Holding ASA,Software,2017,20.0,57.214,9.2,36.362,39.4,12652979.16,2555.25,57.572,66.82,122828804.68,94909.89333333333,41.215,Technology & Consumer Goods
+CRAYN.OL,Crayon Group Holding ASA,Software,2018,20.0,57.214,9.2,36.362,39.4,20495560.67,2555.25,57.572,66.82,124192181.69,94909.89333333333,41.215,Technology & Consumer Goods
+CRAYN.OL,Crayon Group Holding ASA,Software,2019,20.0,57.214,9.2,36.362,39.4,28470450.2,1241.0,57.572,66.82,119081837.24,94909.89333333333,41.215,Technology & Consumer Goods
+CRAYN.OL,Crayon Group Holding ASA,Software,2020,20.0,31.45,8.0,20.0,33.0,44464729.13,1540.5,31.75,55.0,186624115.46,94909.89333333333,41.215,Technology & Consumer Goods
+CRAYN.OL,Crayon Group Holding ASA,Software,2021,20.0,25.86,8.0,24.0,44.0,65818751.63,2022.5,50.99,54.55,529535013.12,94909.89333333333,41.215,Technology & Consumer Goods
+CRAYN.OL,Crayon Group Holding ASA,Software,2022,20.0,81.55,10.0,43.81,40.0,76423008.22,2803.0,69.64,66.82,594371561.27,46290.0,41.215,Technology & Consumer Goods
+CRAYN.OL,Crayon Group Holding ASA,Software,2023,20.0,76.22,10.0,47.0,40.0,86432299.63,3654.5,76.22,66.82,501721739.3,101772.68,40.54,Technology & Consumer Goods
+CRAYN.OL,Crayon Group Holding ASA,Software,2024,20.0,70.99,10.0,47.0,40.0,100125817.15,4070.0,59.26,90.91,432617436.67,136667.0,41.89,Technology & Consumer Goods
+DANO.PA,Danone SA,Food Products,2017,18.75,73.2,16.0,51.0,18.0,5604539292.95,101967.0,89.69,73.53,39922745648.44,2336262.0,41.48,Technology & Consumer Goods
+DANO.PA,Danone SA,Food Products,2018,25.0,55.56,16.0,48.0,11.0,5287182310.3,105313.0,95.83,57.5,38731764382.05,2517432.0,35.2,Technology & Consumer Goods
+DANO.PA,Danone SA,Food Products,2019,31.25,56.86,16.0,52.0,16.0,5700289218.21,104116.0,98.37,73.06333333333333,38392036410.11,2479826.0,46.83,Technology & Consumer Goods
+DANO.PA,Danone SA,Food Products,2020,31.25,51.25,16.0,47.0,12.0,5586223742.06,102180.0,79.69,73.06333333333333,39488275525.16,2246183.0,45.83,Technology & Consumer Goods
+DANO.PA,Danone SA,Food Products,2021,20.0,27.99,16.0,43.69,33.33,5167905781.78,100008.0,90.64,73.06333333333333,38177250301.25,2532056.0,41.74,Technology & Consumer Goods
+DANO.PA,Danone SA,Food Products,2022,23.08,60.41,13.0,43.0,44.0,4998929794.52,97135.5,85.03,73.06333333333333,34412457191.78,2322335.0,42.15,Technology & Consumer Goods
+DANO.PA,Danone SA,Food Products,2023,41.67,73.23,12.0,51.0,65.0,5053358789.58,92504.5,44.19,73.06333333333333,35118581219.03,2451042.0,45.77,Technology & Consumer Goods
+DANO.PA,Danone SA,Food Products,2024,45.45,55.73,11.0,56.0,65.0,4829692514.75,89185.5,40.1,88.16,33205300755.77,2090720.0,46.15,Technology & Consumer Goods
+DGE.L,Diageo PLC,Beverages,2017,45.45,98.3,11.0,65.10285714285715,86.83714285714287,5012752599.57,30768.0,93.75,12.5,27682188212.31,480528.0,74.14,Technology & Consumer Goods
+DGE.L,Diageo PLC,Beverages,2018,50.0,94.04,10.0,64.0,88.0,5621887970.34,29706.5,92.97,58.60428571428571,28751799463.79,641484.0,77.94,Technology & Consumer Goods
+DGE.L,Diageo PLC,Beverages,2019,50.0,98.07,10.0,67.0,88.0,5802528885.66,28756.0,91.47,80.56,28989388708.37,508245.0,76.83,Technology & Consumer Goods
+DGE.L,Diageo PLC,Beverages,2020,50.0,97.33,10.0,69.0,93.0,5282673997.73,27969.0,92.71,72.22,31859098348.46,444039.0,70.19,Technology & Consumer Goods
+DGE.L,Diageo PLC,Beverages,2021,50.0,95.34,10.0,59.0,67.0,5774834576.69,27785.5,84.76,71.88,32522607228.78,457428.0,70.0,Technology & Consumer Goods
+DGE.L,Diageo PLC,Beverages,2022,50.0,99.7,12.0,64.72,92.86,7157736367.63,28170.5,86.69,83.93,31665773838.51,466388.0,65.63,Technology & Consumer Goods
+DGE.L,Diageo PLC,Beverages,2023,41.67,99.7,12.0,71.0,86.0,7107000000.0,29413.5,86.74,58.06,33064000000.0,607317.9,74.46,Technology & Consumer Goods
+DGE.L,Diageo PLC,Beverages,2024,45.45,99.77,11.0,61.0,93.0,6790000000.0,30180.5,90.41,31.08,34175000000.0,665214.0,77.6,Technology & Consumer Goods
+ELUXb.ST,Electrolux AB,Household Durables,2017,16.67,46.21,12.0,49.29857142857144,9.857142857142858,1378250850.43,55298.5,55.97,81.48400000000001,3603886999.04,705945.9,54.17,Technology & Consumer Goods
+ELUXb.ST,Electrolux AB,Household Durables,2018,15.38,39.44,13.0,44.0,0.0,1039605078.85,54253.0,11.27,81.48400000000001,3584451674.12,396956.0,50.0,Technology & Consumer Goods
+ELUXb.ST,Electrolux AB,Household Durables,2019,15.38,30.53,13.0,45.0,0.0,1146549882.5,50399.0,33.59,81.48400000000001,3921384319.59,367765.8,55.88,Technology & Consumer Goods
+ELUXb.ST,Electrolux AB,Household Durables,2020,16.67,52.21,12.0,45.0,0.0,1290719189.76,48500.0,46.98,74.0,4472293908.56,1057638.4,54.76,Technology & Consumer Goods
+ELUXb.ST,Electrolux AB,Household Durables,2021,25.0,77.31,12.0,49.0,0.0,1224334011.86,50000.0,46.64,75.71,4131560315.07,261486.5,53.45,Technology & Consumer Goods
+ELUXb.ST,Electrolux AB,Household Durables,2022,27.27,85.65,11.0,61.09,25.0,522780991.18,51500.0,47.93,90.28,5552374180.9,565616.05,62.5,Technology & Consumer Goods
+ELUXb.ST,Electrolux AB,Household Durables,2023,27.27,56.31,11.0,49.0,22.0,641700605.94,48000.0,61.86,75.76,5175225985.89,482430.0,66.39,Technology & Consumer Goods
+ELUXb.ST,Electrolux AB,Household Durables,2024,27.27,57.87,11.0,52.0,22.0,704561695.51,43000.0,70.99,91.67,4822027842.35,548262.6642857143,65.44,Technology & Consumer Goods
+ERICb.ST,Telefonaktiebolaget LM Ericsson,Communications Equipment,2017,15.38,84.09,13.0,51.52428571428572,34.32714285714285,177889949.64,106099.5,74.63,53.28833333333333,15925478864.14,2920000.0,54.17,Technology & Consumer Goods
+ERICb.ST,Telefonaktiebolaget LM Ericsson,Communications Equipment,2018,23.53,65.49,17.0,63.0,57.0,2002733721.93,98047.0,89.44,53.28833333333333,13656748452.4,1800000.0,75.0,Technology & Consumer Goods
+ERICb.ST,Telefonaktiebolaget LM Ericsson,Communications Equipment,2019,31.25,14.12,16.0,56.0,58.0,2133518478.96,97388.0,65.27,77.78,13827814569.54,2031146.7,52.63,Technology & Consumer Goods
+ERICb.ST,Telefonaktiebolaget LM Ericsson,Communications Equipment,2020,31.25,24.31,16.0,50.0,17.0,4645639577.35,100120.5,55.22,52.0,15172250085.21,2500000.0,59.68,Technology & Consumer Goods
+ERICb.ST,Telefonaktiebolaget LM Ericsson,Communications Equipment,2021,31.25,29.85,16.0,53.0,14.0,4578613151.61,101073.0,54.2,57.14,16398906982.92,2510517.6,51.0,Technology & Consumer Goods
+ERICb.ST,Telefonaktiebolaget LM Ericsson,Communications Equipment,2022,33.33,30.33,15.0,53.67,14.29,3935317742.46,103425.5,50.0,56.94,16866004342.9,1925118.0,48.28,Technology & Consumer Goods
+ERICb.ST,Telefonaktiebolaget LM Ericsson,Communications Equipment,2023,35.71,31.68,14.0,41.0,40.0,3002682030.4,102266.0,41.59,31.82,15072613489.62,1962839.4,43.28,Technology & Consumer Goods
+ERICb.ST,Telefonaktiebolaget LM Ericsson,Communications Equipment,2024,30.77,65.43,13.0,44.0,40.0,3032537019.11,96186.0,56.64,44.05,12529873090.25,3808171.2,50.0,Technology & Consumer Goods
+FRAS.KL,Fraser & Neave Holdings Bhd,Beverages,2017,22.33571428571429,49.271428571428565,10.857142857142858,38.285714285714285,6.857142857142857,117101682.86,3500.0,14.005714285714287,67.79400000000001,595360748.99,46914.34285714286,60.11285714285714,Technology & Consumer Goods
+FRAS.KL,Fraser & Neave Holdings Bhd,Beverages,2018,27.27,6.9,11.0,27.0,0.0,122988397.39,3149.5,7.5,67.79400000000001,638403432.44,40748.4,75.0,Technology & Consumer Goods
+FRAS.KL,Fraser & Neave Holdings Bhd,Beverages,2019,20.0,35.59,10.0,26.0,0.0,150143847.07,2699.5,5.74,67.79400000000001,633867144.56,47574.0,71.95,Technology & Consumer Goods
+FRAS.KL,Fraser & Neave Holdings Bhd,Beverages,2020,18.18,34.62,11.0,34.0,0.0,154351553.09,2586.5,3.68,50.0,675840356.37,57574.0,64.42,Technology & Consumer Goods
+FRAS.KL,Fraser & Neave Holdings Bhd,Beverages,2021,18.18,35.06,11.0,42.0,0.0,150972759.86,2513.5,1.22,65.15,689084109.92,49693.0,56.15,Technology & Consumer Goods
+FRAS.KL,Fraser & Neave Holdings Bhd,Beverages,2022,18.18,68.28,11.0,46.0,0.0,120486299.89,2463.0,30.06,76.83,710790291.26,42385.0,58.75,Technology & Consumer Goods
+FRAS.KL,Fraser & Neave Holdings Bhd,Beverages,2023,27.27,85.38,11.0,47.0,25.0,173742622.78,3144.5,22.58,76.83,877698306.17,39290.0,55.98,Technology & Consumer Goods
+FRAS.KL,Fraser & Neave Holdings Bhd,Beverages,2024,27.27,79.07,11.0,46.0,23.0,204497937.39,3762.5,27.26,70.16,1055034700.32,51136.0,38.54,Technology & Consumer Goods
+GAGR.SI,Golden Agri-Resources Ltd,Food Products,2017,30.0,50.0,10.0,20.13833333333333,49.61166666666667,580724000.0,94909.625,18.48,50.0,7351285000.0,396783.165,8.44,Technology & Consumer Goods
+GAGR.SI,Golden Agri-Resources Ltd,Food Products,2018,30.0,50.0,10.0,18.0,33.0,427976000.0,94909.625,20.65,50.0,7646994000.0,396783.165,20.48,Technology & Consumer Goods
+GAGR.SI,Golden Agri-Resources Ltd,Food Products,2019,37.5,50.0,8.0,14.0,38.0,445683000.0,94909.625,18.48,50.0,7887973000.0,396783.165,20.48,Technology & Consumer Goods
+GAGR.SI,Golden Agri-Resources Ltd,Food Products,2020,37.5,50.0,8.0,15.0,40.0,633476000.0,93904.0,13.83,50.0,7841690000.0,396783.165,20.48,Technology & Consumer Goods
+GAGR.SI,Golden Agri-Resources Ltd,Food Products,2021,37.5,50.0,8.0,15.0,60.0,1090359000.0,91301.0,10.56,50.0,8185136000.0,396783.165,20.48,Technology & Consumer Goods
+GAGR.SI,Golden Agri-Resources Ltd,Food Products,2022,37.5,25.0,8.0,26.83,66.67,1856550000.0,94133.5,37.5,50.0,8390400000.0,452888.33,36.38,Technology & Consumer Goods
+GAGR.SI,Golden Agri-Resources Ltd,Food Products,2023,35.357142857142854,42.85714285714285,8.571428571428571,20.13833333333333,49.61166666666667,851382000.0,100300.0,24.214285714285715,50.0,8414245000.0,396783.165,20.48,Technology & Consumer Goods
+GAGR.SI,Golden Agri-Resources Ltd,Food Products,2024,37.5,25.0,8.0,32.0,60.0,934484000.0,94909.625,50.0,50.0,9083752000.0,340678.0,16.62,Technology & Consumer Goods
+GEN.OQ,Gen Digital Inc,Software,2017,9.09,84.28,11.0,48.0,71.0,823000000.0,12000.0,66.08,86.54,11673000000.0,15918.0,20.43,Technology & Consumer Goods
+GEN.OQ,Gen Digital Inc,Software,2018,9.09,80.0,11.0,52.0,71.0,866000000.0,12400.0,50.96,86.54,10049000000.0,9161.0,19.25,Technology & Consumer Goods
+GEN.OQ,Gen Digital Inc,Software,2019,7.14,78.5,14.0,52.0,43.0,994000000.0,11850.0,82.51,86.54,10190000000.0,12539.5,17.81,Technology & Consumer Goods
+GEN.OQ,Gen Digital Inc,Software,2020,22.22,50.98,9.0,45.0,73.0,982000000.0,7750.0,17.81,86.54,4231000000.0,12539.5,45.51,Technology & Consumer Goods
+GEN.OQ,Gen Digital Inc,Software,2021,22.22,95.13,9.0,33.3,53.33,1197000000.0,3204.0,68.2,86.54,3101000000.0,12539.5,47.28,Technology & Consumer Goods
+GEN.OQ,Gen Digital Inc,Software,2022,22.22,93.59,9.0,49.0,53.0,1176000000.0,2754.0,67.09,86.54,3643000000.0,12539.5,45.79,Technology & Consumer Goods
+GEN.OQ,Gen Digital Inc,Software,2023,20.0,85.63,10.0,42.0,27.0,1625000000.0,3200.0,64.7,86.54,11962000000.0,12539.5,41.89,Technology & Consumer Goods
+GEN.OQ,Gen Digital Inc,Software,2024,20.0,85.7,10.0,43.0,27.0,1664000000.0,3550.0,64.87,86.54,10744000000.0,12539.5,50.0,Technology & Consumer Goods
+GIBa.TO,CGI Inc,IT Services,2017,14.29,65.89,14.0,33.14,8.204285714285714,1557948985.32,69500.0,40.42,8.1625,6468780781.26,4696395.0,54.032,Technology & Consumer Goods
+GIBa.TO,CGI Inc,IT Services,2018,18.75,53.29,16.0,20.0,0.0,1607988220.71,72500.0,47.92,21.43,6576022938.62,4696395.0,54.032,Technology & Consumer Goods
+GIBa.TO,CGI Inc,IT Services,2019,20.0,47.54,15.0,36.0,0.0,1659061862.68,75750.0,56.6,8.1625,6960729662.36,4696395.0,54.032,Technology & Consumer Goods
+GIBa.TO,CGI Inc,IT Services,2020,26.67,83.18,15.0,24.0,0.0,1807345146.03,76750.0,61.31,7.69,8805184323.15,3810675.0,55.48,Technology & Consumer Goods
+GIBa.TO,CGI Inc,IT Services,2021,27.78,80.96,18.0,34.0,0.0,1933705631.8,78000.0,53.0,1.92,8806458431.93,3815200.0,56.23,Technology & Consumer Goods
+GIBa.TO,CGI Inc,IT Services,2022,29.41,60.87,17.0,32.98,15.43,1845908433.39,85000.0,49.09,8.1625,8136090698.68,4011200.0,48.91,Technology & Consumer Goods
+GIBa.TO,CGI Inc,IT Services,2023,29.41,72.79,17.0,43.0,21.0,2071061353.76,90750.0,44.15,8.1625,8877202622.08,5751000.0,52.06,Technology & Consumer Goods
+GIBa.TO,CGI Inc,IT Services,2024,31.25,71.49,16.0,42.0,21.0,2165385980.48,90875.0,56.92,1.61,9417622744.75,6093900.0,57.48,Technology & Consumer Goods
+HEIN.AS,Heineken NV,Beverages,2017,45.45,55.45,11.0,43.0,25.0,6295509890.72,76975.0,74.0,48.312,35866892191.79,1604190.0,37.93,Technology & Consumer Goods
+HEIN.AS,Heineken NV,Beverages,2018,50.0,67.24,10.0,38.0,31.0,6312505734.47,83017.5,75.96,48.312,35202770896.41,1814116.5,30.88,Technology & Consumer Goods
+HEIN.AS,Heineken NV,Beverages,2019,50.0,68.9,10.0,34.0,31.0,6629598905.9,85731.5,66.67,48.312,38520951505.5,1451516.5,40.24,Technology & Consumer Goods
+HEIN.AS,Heineken NV,Beverages,2020,60.0,83.93,10.0,38.0,27.0,6613336590.13,85123.5,61.84,79.76,39799706888.13,1330289.1,32.69,Technology & Consumer Goods
+HEIN.AS,Heineken NV,Beverages,2021,60.0,83.33,10.0,54.0,44.0,6071664052.02,83325.5,74.32,47.5,41576290839.64,913723.2,24.62,Technology & Consumer Goods
+HEIN.AS,Heineken NV,Beverages,2022,60.0,77.72,10.0,55.23,46.67,6530393835.62,84323.5,58.15,31.82,40985659246.58,1456017.5,26.25,Technology & Consumer Goods
+HEIN.AS,Heineken NV,Beverages,2023,60.0,70.21,10.0,57.0,40.0,6904086610.09,88061.0,40.96,39.77,45277167735.31,1637335.0,29.89,Technology & Consumer Goods
+HEIN.AS,Heineken NV,Beverages,2024,44.44,79.44,9.0,58.0,25.0,6243917589.81,89114.5,49.44,42.71,40843772647.27,560000.0,26.04,Technology & Consumer Goods
+HNKG_p.DE,Henkel AG & Co KGaA,Household Products,2017,5.88,85.64,17.0,40.94857142857143,65.75,4998740418.18,52525.0,80.32,54.252,23981238228.91,657280.0,92.19,Technology & Consumer Goods
+HNKG_p.DE,Henkel AG & Co KGaA,Household Products,2018,5.88,93.81,17.0,43.0,60.0,4634599504.54,53350.0,77.68,54.252,24284338012.66,773280.0,92.86,Technology & Consumer Goods
+HNKG_p.DE,Henkel AG & Co KGaA,Household Products,2019,6.25,82.18,16.0,37.0,61.0,4442526287.47,52725.0,79.36,54.252,25917539178.98,720800.0,91.73,Technology & Consumer Goods
+HNKG_p.DE,Henkel AG & Co KGaA,Household Products,2020,6.25,82.99,16.0,32.0,65.0,4047386419.15,52700.0,74.62,83.0,26275036638.98,755280.0,93.71,Technology & Consumer Goods
+HNKG_p.DE,Henkel AG & Co KGaA,Household Products,2021,6.25,94.57,16.0,27.64,56.25,3890139372.03,52700.0,56.2,65.96,25728122229.04,635400.0,90.43,Technology & Consumer Goods
+HNKG_p.DE,Henkel AG & Co KGaA,Household Products,2022,6.25,91.04,16.0,49.0,64.0,3488869863.01,51825.0,67.74,64.29,25410958904.11,965080.0,88.56,Technology & Consumer Goods
+HNKG_p.DE,Henkel AG & Co KGaA,Household Products,2023,11.76,85.79,17.0,44.0,78.0,4065641795.33,49475.0,73.02,34.44,25262379570.26,901120.0,91.04,Technology & Consumer Goods
+HNKG_p.DE,Henkel AG & Co KGaA,Household Products,2024,18.75,88.17,16.0,54.0,76.0,4055285226.21,47450.0,65.95,23.57,27032819132.42,955000.0,91.57,Technology & Consumer Goods
+HPQ.N,HP Inc,Technology Hardware Storage & Peripherals,2017,9.545,98.18,12.0,57.0,71.0,4209000000.0,49000.0,98.35,42.86,4411000000.0,1100000.0,69.64,Technology & Consumer Goods
+HPQ.N,HP Inc,Technology Hardware Storage & Peripherals,2018,9.545,97.72,10.0,58.0,69.0,4614000000.0,52000.0,97.81,50.0,5348000000.0,1510000.0,64.06,Technology & Consumer Goods
+HPQ.N,HP Inc,Technology Hardware Storage & Peripherals,2019,10.0,96.52,10.0,57.0,69.0,4926000000.0,55500.0,98.31,77.27,3944000000.0,1660000.0,53.95,Technology & Consumer Goods
+HPQ.N,HP Inc,Technology Hardware Storage & Peripherals,2020,9.09,97.99,11.0,61.0,43.0,4726000000.0,54500.0,97.84,56.71,3989000000.0,1600000.0,51.14,Technology & Consumer Goods
+HPQ.N,HP Inc,Technology Hardware Storage & Peripherals,2021,9.545,94.47,12.0,62.0,50.0,6459000000.0,52000.0,92.36,56.71,5842000000.0,1700000.0,56.78,Technology & Consumer Goods
+HPQ.N,HP Inc,Technology Hardware Storage & Peripherals,2022,9.545,92.01,12.0,60.57,50.0,5888000000.0,54500.0,78.28,56.71,7989000000.0,1750000.0,52.74,Technology & Consumer Goods
+HPQ.N,HP Inc,Technology Hardware Storage & Peripherals,2023,9.545,95.61,13.0,55.0,50.0,5064000000.0,58000.0,86.97,56.71,8415000000.0,1740000.0,54.82,Technology & Consumer Goods
+HPQ.N,HP Inc,Technology Hardware Storage & Peripherals,2024,9.545,94.54,13.0,58.0,47.0,5021000000.0,58000.0,92.17,56.71,8346000000.0,1752224.0,61.24,Technology & Consumer Goods
+HTC.BK,Haad Thip PCL,Beverages,2017,21.43,58.61,13.0,36.165,8.235,17688670.97,2301.0,36.9375,75.0,106167396.93,8965.535,33.1175,Technology & Consumer Goods
+HTC.BK,Haad Thip PCL,Beverages,2018,21.43,58.61,13.0,36.165,8.235,17169230.44,2329.5,36.9375,75.0,109805871.95,8965.535,33.1175,Technology & Consumer Goods
+HTC.BK,Haad Thip PCL,Beverages,2019,21.43,58.61,13.0,36.165,8.235,26539320.23,2313.5,36.9375,75.0,119149038.31,8965.535,33.1175,Technology & Consumer Goods
+HTC.BK,Haad Thip PCL,Beverages,2020,21.43,58.61,13.0,36.165,8.235,36139332.22,2260.5,36.9375,75.0,129670503.0,8965.535,33.1175,Technology & Consumer Goods
+HTC.BK,Haad Thip PCL,Beverages,2021,21.43,84.75,12.0,22.66,2.94,29238818.84,2285.5,82.39,75.0,122047501.35,3431.7,30.0,Technology & Consumer Goods
+HTC.BK,Haad Thip PCL,Beverages,2022,21.43,82.32,12.0,39.0,12.0,27001253.39,2413.5,42.27,75.0,126834270.44,14296.01,34.38,Technology & Consumer Goods
+HTC.BK,Haad Thip PCL,Beverages,2023,21.43,36.36,14.0,39.0,9.0,32235041.63,2461.0,12.03,75.0,134522620.96,4406.16,34.24,Technology & Consumer Goods
+HTC.BK,Haad Thip PCL,Beverages,2024,21.43,31.01,14.0,44.0,9.0,34279225.63,2337.785714285714,11.06,75.0,151537211.91,13728.27,33.85,Technology & Consumer Goods
+IDCC.OQ,InterDigital Inc,Software,2017,11.11,35.09,9.0,26.0,0.0,358548000.0,355.0,50.02,45.45,1158274000.0,8333.7,56.7425,Technology & Consumer Goods
+IDCC.OQ,InterDigital Inc,Software,2018,11.11,72.69,9.0,24.0,0.0,128703000.0,370.0,48.05,45.45,1255390000.0,8333.7,56.7425,Technology & Consumer Goods
+IDCC.OQ,InterDigital Inc,Software,2019,11.11,83.28,7.0,25.0,0.0,114929000.0,438.5,38.53,45.45,1231039000.0,8333.7,56.7425,Technology & Consumer Goods
+IDCC.OQ,InterDigital Inc,Software,2020,11.11,78.5,7.0,21.0,0.0,139609000.0,500.5,59.78,45.45,1164558000.0,8333.7,56.7425,Technology & Consumer Goods
+IDCC.OQ,InterDigital Inc,Software,2021,11.11,72.3,7.0,23.0,0.0,177276000.0,512.0,45.67,45.45,1175662000.0,8333.7,58.0,Technology & Consumer Goods
+IDCC.OQ,InterDigital Inc,Software,2022,11.11,62.1,7.0,32.0,15.0,232367000.0,467.5,48.28,45.45,1337579000.0,8333.7,57.76,Technology & Consumer Goods
+IDCC.OQ,InterDigital Inc,Software,2023,11.11,42.64,8.0,26.0,15.0,301907000.0,437.5,46.7,45.45,1189320000.0,8837.4,52.99,Technology & Consumer Goods
+IDCC.OQ,InterDigital Inc,Software,2024,11.11,30.18,9.0,25.0,21.0,514825000.0,440.0,44.71,45.45,1328987000.0,7830.0,58.22,Technology & Consumer Goods
+JBSS3.SA,JBS SA,Food Products,2017,11.705714285714285,82.42,8.0,12.0,2.0,3407483708.35,237540.5,22.22,83.33,24522828599.53,4154189.0,67.14833333333334,Technology & Consumer Goods
+JBSS3.SA,JBS SA,Food Products,2018,11.11,20.92,9.0,9.0,5.0,4280189305.88,236030.5,25.0,83.33,25109543492.04,4154189.0,67.14833333333334,Technology & Consumer Goods
+JBSS3.SA,JBS SA,Food Products,2019,12.5,18.69,8.0,9.0,0.0,3217720080.4,232500.0,26.02,83.33,21672955623.13,4154189.0,65.14,Technology & Consumer Goods
+JBSS3.SA,JBS SA,Food Products,2020,12.5,58.94,8.0,12.0,1.0,5005490171.68,236000.0,26.4,83.33,22449747698.43,4154189.0,68.61,Technology & Consumer Goods
+JBSS3.SA,JBS SA,Food Products,2021,11.11,45.38,9.0,37.88,28.57,5430698153.53,246000.0,27.38,83.33,22249144733.04,4154189.0,64.06,Technology & Consumer Goods
+JBSS3.SA,JBS SA,Food Products,2022,12.5,79.79,8.0,36.0,29.0,7803573057.11,250000.0,22.34,83.33,26698624490.6,4154189.0,67.92,Technology & Consumer Goods
+JBSS3.SA,JBS SA,Food Products,2023,11.11,75.87,9.0,41.0,27.0,6662492243.66,255000.0,21.83,83.33,28593832765.8,4154189.0,68.37,Technology & Consumer Goods
+JBSS3.SA,JBS SA,Food Products,2024,11.11,72.34,9.0,31.0,27.0,3542788071.14,265000.0,21.43,83.33,31477929968.47,4154189.0,68.79,Technology & Consumer Goods
+JDEP.AS,JDE Peets NV,Food Products,2017,92.9775,41.872,16.6,49.333333333333336,6.666666666666667,1320761507.18,20018.35714285714,82.67,55.46,21406892911.55,318958.25,73.046,Technology & Consumer Goods
+JDEP.AS,JDE Peets NV,Food Products,2018,92.9775,41.872,16.6,49.333333333333336,6.666666666666667,1448527387.83,18481.0,82.67,55.46,19407743829.71,318958.25,73.046,Technology & Consumer Goods
+JDEP.AS,JDE Peets NV,Food Products,2019,92.9775,41.872,16.6,49.333333333333336,6.666666666666667,1663565231.04,20652.0,82.67,55.46,18735286864.11,318958.25,73.046,Technology & Consumer Goods
+JDEP.AS,JDE Peets NV,Food Products,2020,92.9775,38.69,14.0,35.0,0.0,1684171958.96,20785.0,80.26,55.46,19309965803.62,318958.25,68.06,Technology & Consumer Goods
+JDEP.AS,JDE Peets NV,Food Products,2021,92.86,27.59,26.0,52.0,0.0,1707477889.18,19940.5,91.79,55.46,18229770593.18,159448.0,74.11,Technology & Consumer Goods
+JDEP.AS,JDE Peets NV,Food Products,2022,92.86,21.2,14.0,49.333333333333336,6.666666666666667,1471532534.25,19776.0,79.89,47.73,17229238013.7,252324.0,74.91,Technology & Consumer Goods
+JDEP.AS,JDE Peets NV,Food Products,2023,93.33,70.21,15.0,49.333333333333336,6.666666666666667,1518545904.01,19993.5,80.85,48.86,18794212750.93,470117.0,74.93,Technology & Consumer Goods
+JDEP.AS,JDE Peets NV,Food Products,2024,92.86,51.67,14.0,61.0,20.0,1572626565.9,20500.5,80.56,69.79,17298892224.87,393944.0,73.22,Technology & Consumer Goods
+KHC.OQ,Kraft Heinz Co,Food Products,2017,18.18,60.77,11.0,29.99833333333333,28.795,7725000000.0,40000.0,15.95,37.77,97579000000.0,733491.6799999999,57.44199999999999,Technology & Consumer Goods
+KHC.OQ,Kraft Heinz Co,Food Products,2018,18.18,60.96,11.0,29.99833333333333,28.795,7034000000.0,38500.0,16.82,37.77,82946000000.0,733491.6799999999,62.5,Technology & Consumer Goods
+KHC.OQ,Kraft Heinz Co,Food Products,2019,18.18,60.98,11.0,23.0,25.0,6084000000.0,37500.0,17.67,37.77,80993000000.0,733491.6799999999,57.44199999999999,Technology & Consumer Goods
+KHC.OQ,Kraft Heinz Co,Food Products,2020,36.36,54.81,11.0,17.0,26.0,6519000000.0,37500.0,35.54,37.77,78549000000.0,646000.0,57.44199999999999,Technology & Consumer Goods
+KHC.OQ,Kraft Heinz Co,Food Products,2021,27.27,46.88,11.0,31.0,29.0,6091000000.0,37000.0,84.57,45.45,71267000000.0,1395252.0,59.17,Technology & Consumer Goods
+KHC.OQ,Kraft Heinz Co,Food Products,2022,27.27,10.04,11.0,29.99,30.77,5803000000.0,36500.0,55.54,38.46,68940000000.0,542416.0,53.79,Technology & Consumer Goods
+KHC.OQ,Kraft Heinz Co,Food Products,2023,20.0,33.15,10.0,31.0,31.0,6203000000.0,36500.0,72.69,38.0,69754000000.0,544622.4,54.61,Technology & Consumer Goods
+KHC.OQ,Kraft Heinz Co,Food Products,2024,9.09,78.82,11.0,48.0,31.0,6327000000.0,36000.0,77.27,29.17,69194000000.0,539168.0,57.14,Technology & Consumer Goods
+LANDI.S,Landis+Gyr Group AG,Electronic Equipment Instruments & Components,2017,46.072,50.568,7.8,31.346000000000004,15.858,154717000.0,7194.25,80.292,50.324,1960529000.0,100539.54666666668,84.005,Technology & Consumer Goods
+LANDI.S,Landis+Gyr Group AG,Electronic Equipment Instruments & Components,2018,46.072,50.568,7.8,31.346000000000004,15.858,159776000.0,7194.25,80.292,50.324,1950348000.0,100539.54666666668,84.005,Technology & Consumer Goods
+LANDI.S,Landis+Gyr Group AG,Electronic Equipment Instruments & Components,2019,46.072,50.568,7.8,31.346000000000004,15.858,237859000.0,7194.25,80.292,50.324,1924036000.0,100539.54666666668,84.005,Technology & Consumer Goods
+LANDI.S,Landis+Gyr Group AG,Electronic Equipment Instruments & Components,2020,37.5,70.26,8.0,29.0,20.0,219453000.0,7194.25,89.49,73.96,2149816000.0,100539.54666666668,83.87,Technology & Consumer Goods
+LANDI.S,Landis+Gyr Group AG,Electronic Equipment Instruments & Components,2021,50.0,36.63,8.0,31.0,13.0,131858000.0,7194.25,63.58,77.98,1523422000.0,100539.54666666668,84.2,Technology & Consumer Goods
+LANDI.S,Landis+Gyr Group AG,Electronic Equipment Instruments & Components,2022,50.0,31.88,8.0,31.73,14.29,163965000.0,7194.25,97.82,52.23,1626387000.0,65076.14,81.43,Technology & Consumer Goods
+LANDI.S,Landis+Gyr Group AG,Electronic Equipment Instruments & Components,2023,50.0,56.86,8.0,33.0,17.0,139895000.0,7097.5,78.57,28.7,1709855000.0,106342.5,86.52,Technology & Consumer Goods
+LANDI.S,Landis+Gyr Group AG,Electronic Equipment Instruments & Components,2024,42.86,57.21,7.0,32.0,15.0,224873000.0,7291.0,72.0,18.75,1804071000.0,130200.0,84.005,Technology & Consumer Goods
+LOGN.S,Logitech International SA,Technology Hardware Storage & Peripherals,2017,80.0,63.75,10.0,37.0,0.0,264993000.0,6150.0,24.14,59.212,856111000.0,20000.0,70.31,Technology & Consumer Goods
+LOGN.S,Logitech International SA,Technology Hardware Storage & Peripherals,2018,84.62,94.92,13.0,41.0,0.0,287931000.0,6250.0,29.78,59.212,1050557000.0,15000.0,50.0,Technology & Consumer Goods
+LOGN.S,Logitech International SA,Technology Hardware Storage & Peripherals,2019,81.82,76.8,11.0,44.04,21.666666666666668,359889000.0,6350.0,29.3,93.75,1176339000.0,15000.0,42.05,Technology & Consumer Goods
+LOGN.S,Logitech International SA,Technology Hardware Storage & Peripherals,2020,81.82,75.74,11.0,38.0,0.0,351880000.0,6600.0,27.54,59.212,1489268000.0,12000.0,46.61,Technology & Consumer Goods
+LOGN.S,Logitech International SA,Technology Hardware Storage & Peripherals,2021,81.82,91.3,11.0,47.24,40.0,1231216000.0,7800.0,86.41,31.25,2261789000.0,21568.0,38.36,Technology & Consumer Goods
+LOGN.S,Logitech International SA,Technology Hardware Storage & Peripherals,2022,72.73,86.03,11.0,44.04,21.666666666666668,919455000.0,8600.0,87.93,42.59,2398738000.0,21568.0,49.4,Technology & Consumer Goods
+LOGN.S,Logitech International SA,Technology Hardware Storage & Peripherals,2023,66.67,70.9,13.0,47.0,47.0,605902000.0,7800.0,86.0,33.59,2257560000.0,29589.0,53.37,Technology & Consumer Goods
+LOGN.S,Logitech International SA,Technology Hardware Storage & Peripherals,2024,60.0,83.84,10.0,54.0,43.0,679474000.0,7350.0,96.95,94.88,2233653000.0,37819.0,56.32,Technology & Consumer Goods
+LVMH.PA,LVMH Moet Hennessy Louis Vuitton SE,Textiles Apparel & Luxury Goods,2017,29.41,28.35,17.0,65.14,43.91428571428571,12147167140.51,117845.0,28.87,44.053333333333335,50326891472.03,2428216.0,82.76,Technology & Consumer Goods
+LVMH.PA,LVMH Moet Hennessy Louis Vuitton SE,Textiles Apparel & Luxury Goods,2018,26.67,30.56,15.0,57.0,18.0,13699651344.16,132635.0,30.09,44.053333333333335,51575832645.2,2323580.0,71.43,Technology & Consumer Goods
+LVMH.PA,LVMH Moet Hennessy Louis Vuitton SE,Textiles Apparel & Luxury Goods,2019,25.0,56.86,16.0,72.0,22.0,17773468152.37,142174.0,29.41,44.053333333333335,71295652758.78,2269040.0,74.51,Technology & Consumer Goods
+LVMH.PA,LVMH Moet Hennessy Louis Vuitton SE,Textiles Apparel & Luxury Goods,2020,31.25,51.25,16.0,64.0,44.0,16195652173.91,148029.0,50.63,44.053333333333335,93198583292.62,2269040.0,76.27,Technology & Consumer Goods
+LVMH.PA,LVMH Moet Hennessy Louis Vuitton SE,Textiles Apparel & Luxury Goods,2021,23.53,68.21,17.0,67.0,43.0,25212013732.58,153148.0,60.37,28.79,94766159652.59,1354064.0,69.33,Technology & Consumer Goods
+LVMH.PA,LVMH Moet Hennessy Louis Vuitton SE,Textiles Apparel & Luxury Goods,2022,18.75,50.51,16.0,67.98,61.4,28569135273.97,165722.5,30.71,29.69,98128210616.44,2349792.0,75.0,Technology & Consumer Goods
+LVMH.PA,LVMH Moet Hennessy Louis Vuitton SE,Textiles Apparel & Luxury Goods,2023,18.75,45.96,16.0,65.0,61.0,31772482977.06,182889.5,29.04,44.053333333333335,111668303665.04,2530120.0,78.91,Technology & Consumer Goods
+LVMH.PA,LVMH Moet Hennessy Louis Vuitton SE,Textiles Apparel & Luxury Goods,2024,12.5,45.31,16.0,63.0,58.0,27281292059.22,196402.5,28.13,73.68,113893777823.79,3051392.0,77.86,Technology & Consumer Goods
+MITE.KL,MI Technovation Bhd,Semiconductors & Semiconductor Equipment,2017,46.66666666666666,52.336666666666666,7.0,39.0,23.0,15363780.91,149.5,53.50333333333333,51.83,30849362.02,4232.596666666667,66.80666666666666,Technology & Consumer Goods
+MITE.KL,MI Technovation Bhd,Semiconductors & Semiconductor Equipment,2018,46.66666666666666,52.336666666666666,7.0,39.0,23.0,11705474.58,221.2,53.50333333333333,51.83,81743789.35,4232.596666666667,66.80666666666666,Technology & Consumer Goods
+MITE.KL,MI Technovation Bhd,Semiconductors & Semiconductor Equipment,2019,46.66666666666666,52.336666666666666,7.0,39.0,23.0,15629175.84,221.2,53.50333333333333,51.83,93952328.2,4232.596666666667,66.80666666666666,Technology & Consumer Goods
+MITE.KL,MI Technovation Bhd,Semiconductors & Semiconductor Equipment,2020,46.66666666666666,52.336666666666666,7.0,39.0,23.0,15888485.07,303.5,53.50333333333333,51.83,98733912.94,4232.596666666667,66.80666666666666,Technology & Consumer Goods
+MITE.KL,MI Technovation Bhd,Semiconductors & Semiconductor Equipment,2021,46.66666666666666,52.336666666666666,7.0,39.0,23.0,19674490.87,268.0,53.50333333333333,51.83,273592086.94,4232.596666666667,66.80666666666666,Technology & Consumer Goods
+MITE.KL,MI Technovation Bhd,Semiconductors & Semiconductor Equipment,2022,40.0,52.81,5.0,39.0,23.0,23669843.18,210.0,72.59,46.34,257936334.09,4129.0,56.85,Technology & Consumer Goods
+MITE.KL,MI Technovation Bhd,Semiconductors & Semiconductor Equipment,2023,50.0,56.14,8.0,39.0,23.0,19942498.91,175.0,31.2,57.32,246205982.57,5005.0,71.8,Technology & Consumer Goods
+MITE.KL,MI Technovation Bhd,Semiconductors & Semiconductor Equipment,2024,50.0,48.06,8.0,39.0,23.0,22414279.32,221.2,56.72,51.83,240772605.19,3563.79,71.77,Technology & Consumer Goods
+MONC.MI,Moncler SpA,Textiles Apparel & Luxury Goods,2017,20.0,38.89,10.0,49.0,80.0,465625412.36,3357.0,19.79,92.86,1219523518.19,33127.0,63.79,Technology & Consumer Goods
+MONC.MI,Moncler SpA,Textiles Apparel & Luxury Goods,2018,18.18,13.79,11.0,40.0,74.0,539724974.77,3826.5,22.13,92.86,1336484998.62,69050.0,61.43,Technology & Consumer Goods
+MONC.MI,Moncler SpA,Textiles Apparel & Luxury Goods,2019,18.18,8.5,11.0,44.0,80.0,743136111.92,4362.0,20.95,92.86,2292610362.53,96383.0,69.61,Technology & Consumer Goods
+MONC.MI,Moncler SpA,Textiles Apparel & Luxury Goods,2020,23.08,10.58,13.0,42.0,79.0,695892769.91,4483.5,20.64,92.86,2858334147.53,103194.0,73.73,Technology & Consumer Goods
+MONC.MI,Moncler SpA,Textiles Apparel & Luxury Goods,2021,27.27,50.75,11.0,46.0,55.0,1096581633.81,4844.0,17.81,92.86,3879927471.98,121795.0,74.0,Technology & Consumer Goods
+MONC.MI,Moncler SpA,Textiles Apparel & Luxury Goods,2022,25.0,26.81,12.0,63.13,54.79,1112440068.49,5800.0,24.28,92.86,4082903467.47,118299.0,70.31,Technology & Consumer Goods
+MONC.MI,Moncler SpA,Textiles Apparel & Luxury Goods,2023,21.951666666666668,50.77,12.0,60.0,83.0,1308354209.66,6910.0,23.08,92.86,4483926147.46,170843.0,75.39,Technology & Consumer Goods
+MONC.MI,Moncler SpA,Textiles Apparel & Luxury Goods,2024,21.951666666666668,44.05,12.0,60.0,83.0,948673775.75,4797.571428571428,25.0,92.86,2879101444.825714,305161.0,73.66,Technology & Consumer Goods
+MONDE.PS,Monde Nissin Corp,Food Products,2017,66.67,98.70666666666666,9.0,59.66666666666666,21.666666666666668,250723022.6633333,3628.0,87.48333333333335,33.33,1302307430.505,26858.196666666667,57.953333333333326,Technology & Consumer Goods
+MONDE.PS,Monde Nissin Corp,Food Products,2018,66.67,98.70666666666666,9.0,59.66666666666666,21.666666666666668,250723022.6633333,3628.0,87.48333333333335,33.33,1302307430.505,26858.196666666667,57.953333333333326,Technology & Consumer Goods
+MONDE.PS,Monde Nissin Corp,Food Products,2019,66.67,98.70666666666666,9.0,59.66666666666666,21.666666666666668,223208547.55,3628.0,87.48333333333335,33.33,1281357215.93,26858.196666666667,57.953333333333326,Technology & Consumer Goods
+MONDE.PS,Monde Nissin Corp,Food Products,2020,66.67,98.70666666666666,9.0,59.66666666666666,21.666666666666668,286756099.9,3628.0,87.48333333333335,33.33,1313855178.28,26858.196666666667,57.953333333333326,Technology & Consumer Goods
+MONDE.PS,Monde Nissin Corp,Food Products,2021,66.67,98.70666666666666,9.0,59.66666666666666,21.666666666666668,325920601.75,3628.0,87.48333333333335,33.33,1372135670.28,26858.196666666667,57.953333333333326,Technology & Consumer Goods
+MONDE.PS,Monde Nissin Corp,Food Products,2022,66.67,98.68,9.0,49.0,25.0,242846754.27,4158.0,85.53,33.33,1533109354.78,18485.5,66.38,Technology & Consumer Goods
+MONDE.PS,Monde Nissin Corp,Food Products,2023,66.67,98.72,9.0,63.0,18.0,192767846.24,3413.0,93.59,33.33,1119711963.36,27213.09,54.08,Technology & Consumer Goods
+MONDE.PS,Monde Nissin Corp,Food Products,2024,66.67,98.72,9.0,67.0,22.0,232838286.27,3313.0,83.33,33.33,1193675200.4,34876.0,53.4,Technology & Consumer Goods
+MOWI.OL,Mowi ASA,Food Products,2017,9.09,60.0,11.0,39.0,33.0,1390578328.0,12975.0,87.5,31.82,3861517976.03,174972.66666666666,81.25,Technology & Consumer Goods
+MOWI.OL,Mowi ASA,Food Products,2018,9.09,82.61,11.0,36.0,33.0,1154693091.11,13885.0,89.13,31.82,4612349756.86,174972.66666666666,80.1,Technology & Consumer Goods
+MOWI.OL,Mowi ASA,Food Products,2019,7.69,38.89,13.0,31.0,25.0,1292401856.38,14701.5,77.78,31.82,5318476335.67,174972.66666666666,72.89,Technology & Consumer Goods
+MOWI.OL,Mowi ASA,Food Products,2020,8.33,52.42,12.0,30.0,25.0,1031265266.24,14755.5,76.98,31.82,5938812896.92,174972.66666666666,73.33,Technology & Consumer Goods
+MOWI.OL,Mowi ASA,Food Products,2021,8.506,4.6,11.0,36.0,22.0,915922060.8,14314.5,63.33,31.82,5693904463.09,174972.66666666666,66.74,Technology & Consumer Goods
+MOWI.OL,Mowi ASA,Food Products,2022,8.33,42.86,12.0,48.06,25.0,1434824486.3,13855.0,46.43,31.82,6514768835.62,116231.0,61.77,Technology & Consumer Goods
+MOWI.OL,Mowi ASA,Food Products,2023,8.506,12.2,11.0,36.67666666666667,27.166666666666668,1487093463.41,13934.0,44.51,31.82,6976482403.19,212619.0,60.35,Technology & Consumer Goods
+MOWI.OL,Mowi ASA,Food Products,2024,8.506,53.09,9.0,36.67666666666667,27.166666666666668,1265141318.98,13974.0,46.3,31.82,6916554508.75,196068.0,76.78,Technology & Consumer Goods
+NESM.KL,Nestle (Malaysia) Bhd,Food Products,2017,37.5,68.52,8.0,61.33714285714286,28.38142857142857,250157517.31,5541.5,39.09,76.822,269451038.58,87590.06,53.41,Technology & Consumer Goods
+NESM.KL,Nestle (Malaysia) Bhd,Food Products,2018,37.5,60.34,8.0,71.0,40.0,262079176.76,5541.5,35.0,76.822,252206537.53,75933.05,45.92,Technology & Consumer Goods
+NESM.KL,Nestle (Malaysia) Bhd,Food Products,2019,42.86,64.41,7.0,58.0,40.0,259576913.67,5095.5,35.25,76.822,275845194.42,66453.74,53.52,Technology & Consumer Goods
+NESM.KL,Nestle (Malaysia) Bhd,Food Products,2020,42.86,62.31,7.0,65.0,46.0,233858208.96,4852.0,54.41,69.23,275807462.69,78204.65,56.39,Technology & Consumer Goods
+NESM.KL,Nestle (Malaysia) Bhd,Food Products,2021,28.57,68.18,7.0,66.0,21.0,235481508.17,5135.5,89.11,69.7,263377281.46,66365.33,50.89,Technology & Consumer Goods
+NESM.KL,Nestle (Malaysia) Bhd,Food Products,2022,28.57,73.28,7.0,59.36,16.67,252744545.45,5322.0,70.4,84.15,354713181.82,47973.49,49.49,Technology & Consumer Goods
+NESM.KL,Nestle (Malaysia) Bhd,Food Products,2023,28.57,65.4,7.0,60.0,18.0,271012200.44,5363.5,83.55,68.29,348160784.31,20364.0,54.08,Technology & Consumer Goods
+NESM.KL,Nestle (Malaysia) Bhd,Food Products,2024,25.0,83.46,8.0,50.0,17.0,194063339.3,5264.5,71.32,92.74,416760966.88,26627.0,56.21,Technology & Consumer Goods
+NESN.S,Nestle SA,Food Products,2017,50.0,86.3,14.0,63.91285714285714,61.470000000000006,19274350815.97,325500.0,55.26,46.12428571428571,94432926203.43,12735000.0,49.43,Technology & Consumer Goods
+NESN.S,Nestle SA,Food Products,2018,53.33,90.0,15.0,66.0,78.0,19693295292.44,315500.0,54.02,3.57,100669451803.55,10309800.0,48.47,Technology & Consumer Goods
+NESN.S,Nestle SA,Food Products,2019,64.29,91.8,14.0,63.0,49.0,20404009092.79,299500.0,66.18,51.19,93021285389.54,13071962.4,63.38,Technology & Consumer Goods
+NESN.S,Nestle SA,Food Products,2020,71.43,82.35,14.0,69.0,57.0,20057620607.84,282000.0,78.66,46.35,97685007343.8,6559946.4,63.89,Technology & Consumer Goods
+NESN.S,Nestle SA,Food Products,2021,71.43,90.35,14.0,62.39,64.29,20247752685.81,274500.0,72.46,50.0,109955053716.29,3837405.0,59.82,Technology & Consumer Goods
+NESN.S,Nestle SA,Food Products,2022,64.29,90.34,14.0,57.0,67.0,20779965382.95,275500.0,64.08,47.32,105045434876.68,4061089.8,56.14,Technology & Consumer Goods
+NESN.S,Nestle SA,Food Products,2023,71.43,84.07,14.0,63.0,69.0,22732026143.79,272500.0,53.69,51.39,108886512180.63,2312166.0,61.37,Technology & Consumer Goods
+NESN.S,Nestle SA,Food Products,2024,66.67,70.9,15.0,67.0,46.0,21158509700.18,273500.0,67.25,73.05,110508156966.49,3714177.2,66.12,Technology & Consumer Goods
+NOKIA.HE,Nokia Oyj,Communications Equipment,2017,75.0,25.93,8.0,44.0,33.0,4361751898.37,101937.5,36.54,83.33,24294334281.02,1916625.0,45.83,Technology & Consumer Goods
+NOKIA.HE,Nokia Oyj,Communications Equipment,2018,80.0,41.67,10.0,57.0,40.0,3470501880.91,103041.5,51.67,87.5,22012340581.7,1644176.0,46.88,Technology & Consumer Goods
+NOKIA.HE,Nokia Oyj,Communications Equipment,2019,70.0,73.75,10.0,60.0,20.0,3550209627.16,100702.5,41.25,95.0,23213685178.13,3440902.0,39.47,Technology & Consumer Goods
+NOKIA.HE,Nokia Oyj,Communications Equipment,2020,70.0,66.67,10.0,67.0,12.0,3705422569.61,95180.5,64.29,92.86,23242550073.28,3220582.0,37.1,Technology & Consumer Goods
+NOKIA.HE,Nokia Oyj,Communications Equipment,2021,77.78,87.95,9.0,64.37,20.0,3793511129.3,89983.0,75.0,98.0,26287429234.02,2969274.0,32.0,Technology & Consumer Goods
+NOKIA.HE,Nokia Oyj,Communications Equipment,2022,75.0,68.29,8.0,68.0,38.0,4282962328.77,87411.5,63.41,90.38,28836686643.84,2591100.0,29.31,Technology & Consumer Goods
+NOKIA.HE,Nokia Oyj,Communications Equipment,2023,80.0,78.75,10.0,49.0,33.0,3154072815.16,86792.5,50.0,78.26,28490393210.69,2523145.0,27.61,Technology & Consumer Goods
+NOKIA.HE,Nokia Oyj,Communications Equipment,2024,70.0,92.41,10.0,52.0,30.0,3331607826.9,95007.0,54.43,81.48,26397142561.34,2198274.0,25.34,Technology & Consumer Goods
+NXPI.OQ,NXP Semiconductors NV,Semiconductors & Semiconductor Equipment,2017,83.33,24.55,12.0,33.0,0.0,2857000000.0,35250.0,18.0,77.75199999999998,20281000000.0,270973.25,68.93714285714286,Technology & Consumer Goods
+NXPI.OQ,NXP Semiconductors NV,Semiconductors & Semiconductor Equipment,2018,83.33,24.14,12.0,37.0,0.0,2893000000.0,30050.0,20.19,77.75199999999998,18044000000.0,270973.25,65.09,Technology & Consumer Goods
+NXPI.OQ,NXP Semiconductors NV,Semiconductors & Semiconductor Equipment,2019,100.0,15.24,9.0,28.0,0.0,2749000000.0,29700.0,51.33,77.75199999999998,17045000000.0,270973.25,68.84,Technology & Consumer Goods
+NXPI.OQ,NXP Semiconductors NV,Semiconductors & Semiconductor Equipment,2020,100.0,46.43,12.0,45.0,0.0,2379000000.0,29200.0,49.34,85.71,16760000000.0,270973.25,69.44,Technology & Consumer Goods
+NXPI.OQ,NXP Semiconductors NV,Semiconductors & Semiconductor Equipment,2021,100.0,46.55,10.0,40.0,13.0,3846000000.0,30000.0,41.89,88.75,17342000000.0,374717.0,71.03,Technology & Consumer Goods
+NXPI.OQ,NXP Semiconductors NV,Semiconductors & Semiconductor Equipment,2022,90.91,65.76,11.0,47.28,14.29,5054000000.0,32750.0,52.72,59.09,18905000000.0,89591.0,66.1,Technology & Consumer Goods
+NXPI.OQ,NXP Semiconductors NV,Semiconductors & Semiconductor Equipment,2023,100.0,70.21,10.0,44.0,13.0,4865000000.0,34350.0,48.94,62.5,20135000000.0,168229.0,72.97,Technology & Consumer Goods
+NXPI.OQ,NXP Semiconductors NV,Semiconductors & Semiconductor Equipment,2024,100.0,63.89,10.0,54.0,19.0,4688000000.0,33650.0,43.33,92.71,20385000000.0,451356.0,69.09,Technology & Consumer Goods
+ONTEX.BR,Ontex Group NV,Personal Care Products,2017,10.918571428571427,1.79,8.0,31.0,0.0,318494259.91,9750.0,62.5,25.0,2423075538.92,180212.0,22.58,Technology & Consumer Goods
+ONTEX.BR,Ontex Group NV,Personal Care Products,2018,10.0,16.13,10.0,31.0,0.0,264244426.09,10875.0,56.45,25.0,2379576107.9,207255.0,21.43,Technology & Consumer Goods
+ONTEX.BR,Ontex Group NV,Personal Care Products,2019,11.11,6.12,9.0,42.0,33.0,271170100.67,10180.0,58.16,25.0,2451965114.45,101993.0,20.24,Technology & Consumer Goods
+ONTEX.BR,Ontex Group NV,Personal Care Products,2020,12.5,70.75,8.0,30.0,29.0,294211040.55,9708.5,57.55,25.0,2901929653.15,192484.0,13.46,Technology & Consumer Goods
+ONTEX.BR,Ontex Group NV,Personal Care Products,2021,14.29,11.54,7.0,30.0,50.0,332742195.85,9423.0,68.26,25.0,2294636564.13,202272.0,18.42,Technology & Consumer Goods
+ONTEX.BR,Ontex Group NV,Personal Care Products,2022,8.33,35.71,12.0,47.83,36.36,200984589.04,8931.5,91.96,25.0,2017444349.32,187974.0,18.94,Technology & Consumer Goods
+ONTEX.BR,Ontex Group NV,Personal Care Products,2023,9.09,47.22,11.0,44.0,43.0,201626698.16,8261.0,79.63,25.0,1882069901.67,137483.0,20.89,Technology & Consumer Goods
+ONTEX.BR,Ontex Group NV,Personal Care Products,2024,11.11,34.82,9.0,30.0,41.0,230458639.61,9589.857142857143,39.29,25.0,1704006625.94,127261.0,23.49,Technology & Consumer Goods
+OREP.PA,L'Oreal SA,Personal Care Products,2017,25.0,73.2,16.0,68.31428571428572,74.57142857142857,7013711447.8,81173.5,84.02,34.01333333333333,31181127865.55,1736030.0,85.48,Technology & Consumer Goods
+OREP.PA,L'Oreal SA,Personal Care Products,2018,26.67,79.17,15.0,73.0,62.0,6901321222.13,84318.0,85.65,34.01333333333333,32313629690.8,1715700.0,84.29,Technology & Consumer Goods
+OREP.PA,L'Oreal SA,Personal Care Products,2019,26.67,75.49,15.0,78.0,82.0,8093289689.03,87002.0,87.91,34.01333333333333,36222563504.7,2105950.0,78.57,Technology & Consumer Goods
+OREP.PA,L'Oreal SA,Personal Care Products,2020,26.67,85.0,15.0,75.0,63.0,8415486077.19,86683.0,85.31,34.01333333333333,38526257938.45,2692570.0,79.81,Technology & Consumer Goods
+OREP.PA,L'Oreal SA,Personal Care Products,2021,23.53,84.24,17.0,64.0,65.0,8773730759.61,85402.0,82.48,34.01333333333333,33982447763.91,3059581.0,77.19,Technology & Consumer Goods
+OREP.PA,L'Oreal SA,Personal Care Products,2022,18.75,76.65,16.0,63.2,85.0,9654965753.42,86390.5,74.37,17.19,35142765410.96,3180718.0,74.24,Technology & Consumer Goods
+OREP.PA,L'Oreal SA,Personal Care Products,2023,18.75,45.96,16.0,60.0,84.0,10626069107.08,90987.0,70.71,17.74,41686954410.52,3167802.0,72.78,Technology & Consumer Goods
+OREP.PA,L'Oreal SA,Personal Care Products,2024,18.75,45.31,16.0,65.0,81.0,10461849052.7,85993.71428571429,66.93,67.11,43102598612.69,3472899.0,72.89,Technology & Consumer Goods
+PEP.OQ,PepsiCo Inc,Beverages,2017,18.75,82.0,16.0,49.78428571428572,92.55142857142856,12859000000.0,263500.0,85.89,25.532,50262000000.0,1018750.0,44.64,Technology & Consumer Goods
+PEP.OQ,PepsiCo Inc,Beverages,2018,11.76,78.42,17.0,45.0,93.0,12856000000.0,265000.0,87.09,25.532,46923000000.0,1018750.0,38.373333333333335,Technology & Consumer Goods
+PEP.OQ,PepsiCo Inc,Beverages,2019,15.38,76.0,13.0,47.0,92.0,13091000000.0,267000.0,88.84,25.532,46936000000.0,1018750.0,38.373333333333335,Technology & Consumer Goods
+PEP.OQ,PepsiCo Inc,Beverages,2020,14.29,63.71,14.0,43.0,92.0,13917000000.0,279000.0,73.15,4.55,57702000000.0,1018750.0,30.49,Technology & Consumer Goods
+PEP.OQ,PepsiCo Inc,Beverages,2021,15.38,63.68,13.0,45.0,92.0,14233000000.0,300000.0,59.78,31.82,56485000000.0,1200000.0,38.46,Technology & Consumer Goods
+PEP.OQ,PepsiCo Inc,Beverages,2022,14.29,46.7,14.0,53.49,92.86,15348000000.0,312000.0,55.54,38.46,56344000000.0,875000.0,33.85,Technology & Consumer Goods
+PEP.OQ,PepsiCo Inc,Beverages,2023,14.29,62.1,14.0,57.0,93.0,17239000000.0,316500.0,68.2,32.0,62742000000.0,1000000.0,43.13,Technology & Consumer Goods
+PEP.OQ,PepsiCo Inc,Beverages,2024,21.43,55.06,14.0,58.0,93.0,18539000000.0,318500.0,43.27,20.83,62477000000.0,1000000.0,39.67,Technology & Consumer Goods
+PERP.PA,Pernod Ricard SA,Beverages,2017,21.43,8.33,14.0,41.0,21.0,3003095621.58,18339.5,37.04,24.095,25622836777.36,428052.0,83.82,Technology & Consumer Goods
+PERP.PA,Pernod Ricard SA,Beverages,2018,23.08,24.84,13.0,47.0,22.0,3032922868.43,18678.0,63.73,24.095,26486669626.38,417831.0,85.37,Technology & Consumer Goods
+PERP.PA,Pernod Ricard SA,Beverages,2019,26.67,71.56,15.0,71.0,0.0,3154627924.43,19027.0,78.44,24.095,26984289384.53,382215.0,75.0,Technology & Consumer Goods
+PERP.PA,Pernod Ricard SA,Beverages,2020,28.57,41.58,14.0,64.0,21.0,2963869764.93,18958.0,79.23,24.095,27657543323.71,427350.0,73.08,Technology & Consumer Goods
+PERP.PA,Pernod Ricard SA,Beverages,2021,23.08,60.41,13.0,67.88,21.05,3279077211.24,18541.0,72.08,26.56,29246144179.82,378082.0,76.88,Technology & Consumer Goods
+PERP.PA,Pernod Ricard SA,Beverages,2022,20.0,86.36,15.0,68.0,21.0,3576444938.26,18893.0,61.62,29.03,28746776797.13,423129.0,80.98,Technology & Consumer Goods
+PERP.PA,Pernod Ricard SA,Beverages,2023,21.43,94.27,14.0,59.81333333333333,17.675,4130527280.46,20048.5,77.08,14.47,31186244667.74,463179.0,83.85,Technology & Consumer Goods
+PERP.PA,Pernod Ricard SA,Beverages,2024,26.67,85.75,15.0,59.81333333333333,17.675,3815951577.48,20087.0,75.81,26.32,32583427071.62,485901.0,85.64,Technology & Consumer Goods
+PM.N,Philip Morris International Inc,Tobacco,2017,61.54,53.35,13.0,54.41,44.84666666666666,12456000000.0,80050.0,33.72,4.3925,24109000000.0,1154753.05,75.57,Technology & Consumer Goods
+PM.N,Philip Morris International Inc,Tobacco,2018,61.54,54.02,13.0,47.0,18.0,12366000000.0,79000.0,35.47,4.3925,21020000000.0,1154753.05,78.06,Technology & Consumer Goods
+PM.N,Philip Morris International Inc,Tobacco,2019,58.33,74.87,12.0,55.0,18.0,12350000000.0,75450.0,50.96,4.3925,21446000000.0,936963.5,83.45,Technology & Consumer Goods
+PM.N,Philip Morris International Inc,Tobacco,2020,58.33,68.52,12.0,53.0,46.0,12798000000.0,72250.0,40.36,4.3925,20905000000.0,1139901.0,76.94,Technology & Consumer Goods
+PM.N,Philip Morris International Inc,Tobacco,2021,70.0,77.18,10.0,56.0,55.0,14189000000.0,70300.0,48.29,1.92,19598000000.0,793508.8,74.11,Technology & Consumer Goods
+PM.N,Philip Morris International Inc,Tobacco,2022,50.0,36.63,14.0,55.46,63.08,13813000000.0,74700.0,44.43,2.0,36812000000.0,1165299.0,73.21,Technology & Consumer Goods
+PM.N,Philip Morris International Inc,Tobacco,2023,71.43,29.8,14.0,60.0,69.0,14238000000.0,81250.0,46.7,8.33,38463000000.0,1492470.0,73.32,Technology & Consumer Goods
+PM.N,Philip Morris International Inc,Tobacco,2024,75.0,39.08,12.0,54.41,44.84666666666666,15595000000.0,82900.0,29.8,5.32,35825000000.0,1400376.0,73.96,Technology & Consumer Goods
+PRTP.PA,Kering SA,Textiles Apparel & Luxury Goods,2017,18.18,99.48,11.0,67.00142857142858,69.39285714285714,3838245702.43,42053.5,93.3,85.29,21366826213.7,423194.0,50.0,Technology & Consumer Goods
+PRTP.PA,Kering SA,Textiles Apparel & Luxury Goods,2018,18.18,98.61,11.0,69.0,60.0,5066749243.05,39425.0,91.67,87.5,16044591246.9,504349.0,50.76,Technology & Consumer Goods
+PRTP.PA,Kering SA,Textiles Apparel & Luxury Goods,2019,27.27,99.02,11.0,65.0,60.0,6705266461.9,36431.5,95.42,86.0,22257807770.78,466955.0,55.88,Technology & Consumer Goods
+PRTP.PA,Kering SA,Textiles Apparel & Luxury Goods,2020,27.27,98.75,11.0,68.0,61.0,5975329750.85,38310.5,92.19,79.41,26514777723.5,558732.0,59.17,Technology & Consumer Goods
+PRTP.PA,Kering SA,Textiles Apparel & Luxury Goods,2021,35.71,98.91,14.0,73.0,62.0,7187663415.41,40682.0,90.64,81.82,26890389468.66,626191.0,61.15,Technology & Consumer Goods
+PRTP.PA,Kering SA,Textiles Apparel & Luxury Goods,2022,30.77,97.46,13.0,70.01,82.75,7663741438.36,45019.0,83.76,81.25,28528467465.75,630605.0,62.57,Technology & Consumer Goods
+PRTP.PA,Kering SA,Textiles Apparel & Luxury Goods,2023,30.77,57.32,13.0,57.0,82.0,7235164932.18,48095.5,73.99,79.03,36602915696.42,647467.0,62.56,Technology & Consumer Goods
+PRTP.PA,Kering SA,Textiles Apparel & Luxury Goods,2024,33.33,75.78,12.0,67.0,78.0,4749974117.4,41431.0,82.29,57.89,36949994823.48,736482.0,63.24,Technology & Consumer Goods
+PUMG.DE,Puma SE,Textiles Apparel & Luxury Goods,2017,77.78,6.38,9.0,34.0,37.0,197119428.09,11423.0,32.98,56.682500000000005,1854604709.84,160904.0,15.52,Technology & Consumer Goods
+PUMG.DE,Puma SE,Textiles Apparel & Luxury Goods,2018,57.14,13.72,7.0,57.0,42.0,377874545.65,11641.0,93.75,56.682500000000005,2059716174.23,174568.0,20.0,Technology & Consumer Goods
+PUMG.DE,Puma SE,Textiles Apparel & Luxury Goods,2019,66.67,24.14,6.0,55.0,47.0,481924947.24,12340.5,91.28,56.682500000000005,2206853839.8,132450.0,22.55,Technology & Consumer Goods
+PUMG.DE,Puma SE,Textiles Apparel & Luxury Goods,2020,66.67,64.72,6.0,56.0,44.0,769679169.56,13613.0,94.92,68.0,3183193955.56,199496.0,22.88,Technology & Consumer Goods
+PUMG.DE,Puma SE,Textiles Apparel & Luxury Goods,2021,66.67,68.84,6.0,65.0,44.0,613580850.02,14353.0,85.52,65.96,3628114313.63,122256.0,27.33,Technology & Consumer Goods
+PUMG.DE,Puma SE,Textiles Apparel & Luxury Goods,2022,66.67,67.2,6.0,53.95,41.18,977877816.43,15249.5,82.97,43.88,4188436441.35,436734.0,44.79,Technology & Consumer Goods
+PUMG.DE,Puma SE,Textiles Apparel & Luxury Goods,2023,57.14,42.63,7.0,49.0,45.0,1069349315.07,17098.0,80.94,48.89,4399079623.29,117433.0,41.02,Technology & Consumer Goods
+PUMG.DE,Puma SE,Textiles Apparel & Luxury Goods,2024,66.67,57.89,6.0,56.0,42.0,1049738999.92,18376.0,96.59,56.682500000000005,4841137585.11,160481.0,38.55,Technology & Consumer Goods
+QDT.PA,Quadient SA,Technology Hardware Storage & Peripherals,2017,18.18,11.57,11.0,25.0,23.0,325255033.19,6074.0,10.19,79.762,2183839801.37,110034.0,56.09,Technology & Consumer Goods
+QDT.PA,Quadient SA,Technology Hardware Storage & Peripherals,2018,22.22,61.11,9.0,27.0,23.0,353598708.32,5953.5,11.76,79.762,2529963360.86,127026.0,45.65,Technology & Consumer Goods
+QDT.PA,Quadient SA,Technology Hardware Storage & Peripherals,2019,30.0,25.63,10.0,35.74285714285714,25.142857142857142,311162481.98,5730.5,32.5,79.762,2415600466.92,122232.0,42.69,Technology & Consumer Goods
+QDT.PA,Quadient SA,Technology Hardware Storage & Peripherals,2020,27.27,13.32,11.0,27.0,25.0,316926797.34,5649.0,43.79,86.36,2679512352.05,114350.0,46.52,Technology & Consumer Goods
+QDT.PA,Quadient SA,Technology Hardware Storage & Peripherals,2021,25.0,33.76,12.0,48.2,25.0,298425951.77,5464.0,59.14,89.06,2750518816.98,63831.0,48.58,Technology & Consumer Goods
+QDT.PA,Quadient SA,Technology Hardware Storage & Peripherals,2022,16.67,33.08,12.0,42.0,26.0,276445412.98,5107.0,35.35,98.39,2638980937.51,36728.0,49.16,Technology & Consumer Goods
+QDT.PA,Quadient SA,Technology Hardware Storage & Peripherals,2023,25.0,29.43,12.0,46.0,27.0,270464025.03,4939.5,25.26,73.68,2113964198.82,60693.0,53.24,Technology & Consumer Goods
+QDT.PA,Quadient SA,Technology Hardware Storage & Peripherals,2024,25.0,28.76,12.0,35.0,27.0,273859998.27,4810.5,23.66,51.32,2050597040.75,173159.0,52.77,Technology & Consumer Goods
+REDI.NS,Redington Ltd,Electronic Equipment Instruments & Components,2017,40.97,69.67333333333333,9.0,30.0,44.0,132444795.68,1487.5,24.37333333333333,75.0,774903623.75,135660.0,9.48,Technology & Consumer Goods
+REDI.NS,Redington Ltd,Electronic Equipment Instruments & Components,2018,40.97,69.67333333333333,9.0,30.0,44.0,129099984.64,1709.5,24.37333333333333,75.0,821253263.71,135660.0,9.48,Technology & Consumer Goods
+REDI.NS,Redington Ltd,Electronic Equipment Instruments & Components,2019,40.97,69.67333333333333,9.0,30.0,44.0,133960682.28,1673.5,24.37333333333333,75.0,803418618.1,135660.0,9.48,Technology & Consumer Goods
+REDI.NS,Redington Ltd,Electronic Equipment Instruments & Components,2020,40.97,69.67333333333333,9.0,30.0,44.0,137028924.91,1567.0,24.37333333333333,75.0,990911021.73,135660.0,9.48,Technology & Consumer Goods
+REDI.NS,Redington Ltd,Electronic Equipment Instruments & Components,2021,40.97,69.67333333333333,9.0,30.0,44.0,186339335.77,1553.0,24.37333333333333,75.0,810614326.54,135660.0,9.48,Technology & Consumer Goods
+REDI.NS,Redington Ltd,Electronic Equipment Instruments & Components,2022,40.97,64.21,10.0,30.0,44.0,238516022.1,1604.0,25.03,75.0,914141241.14,22540.0,10.24,Technology & Consumer Goods
+REDI.NS,Redington Ltd,Electronic Equipment Instruments & Components,2023,44.44,69.12,9.0,32.0,44.0,264200340.8,3157.0,24.06,75.0,1291865871.47,186040.0,8.43,Technology & Consumer Goods
+REDI.NS,Redington Ltd,Electronic Equipment Instruments & Components,2024,37.5,75.69,8.0,28.0,44.0,229064187.16,4844.0,24.03,75.0,1298159568.09,198400.0,9.77,Technology & Consumer Goods
+RKT.L,Reckitt Benckiser Group PLC,Household Products,2017,36.36,71.2,11.0,35.0,22.0,4526537671.6,37400.0,66.22,81.99,35717760242.14,303393.3333333333,56.45,Technology & Consumer Goods
+RKT.L,Reckitt Benckiser Group PLC,Household Products,2018,36.36,67.77,11.0,33.0,54.0,4630810838.39,41250.0,18.23,81.99,34431290503.65,303393.3333333333,47.14,Technology & Consumer Goods
+RKT.L,Reckitt Benckiser Group PLC,Household Products,2019,36.36,58.75,11.0,53.0,44.0,4937682312.38,42400.0,45.85,81.99,28642269954.92,303393.3333333333,44.05,Technology & Consumer Goods
+RKT.L,Reckitt Benckiser Group PLC,Household Products,2020,45.45,78.32,11.0,56.0,53.0,5049427786.21,42950.0,41.46,75.93,26957627466.26,241679.0,39.42,Technology & Consumer Goods
+RKT.L,Reckitt Benckiser Group PLC,Household Products,2021,45.45,91.94,11.0,59.0,50.0,4441588310.9,47895.5,40.32,71.88,23021037678.41,264826.0,39.47,Technology & Consumer Goods
+RKT.L,Reckitt Benckiser Group PLC,Household Products,2022,50.0,83.68,12.0,62.53,75.83,4599286275.93,52051.5,37.88,83.93,22218593116.8,403675.0,37.12,Technology & Consumer Goods
+RKT.L,Reckitt Benckiser Group PLC,Household Products,2023,33.33,51.21,12.0,58.0,86.0,4815366403.18,45906.0,46.46,82.26,21646873130.43,303393.3333333333,37.34,Technology & Consumer Goods
+RKT.L,Reckitt Benckiser Group PLC,Household Products,2024,40.0,65.05,15.0,62.0,93.0,5731264856.75,44264.71428571428,63.53,95.95,19239334417.62,303393.3333333333,36.75,Technology & Consumer Goods
+S30.PA,Solutions 30 SE,IT Services,2017,92.46,67.19,6.333333333333333,40.0,12.166666666666666,27379709.94,2621.0,21.53,76.91333333333333,138713547.1,172429.2,34.9375,Technology & Consumer Goods
+S30.PA,Solutions 30 SE,IT Services,2018,92.46,67.19,6.333333333333333,40.0,12.166666666666666,79024451.78,3912.0,21.53,76.91333333333333,303203275.53,172429.2,34.9375,Technology & Consumer Goods
+S30.PA,Solutions 30 SE,IT Services,2019,100.0,66.07,5.0,39.0,0.0,95962155.01,5672.5,20.37,70.0,317834002.2,172429.2,34.9375,Technology & Consumer Goods
+S30.PA,Solutions 30 SE,IT Services,2020,100.0,56.06,6.0,35.0,0.0,119647044.46,6797.5,25.0,80.77,407427943.33,172029.0,34.9375,Technology & Consumer Goods
+S30.PA,Solutions 30 SE,IT Services,2021,100.0,57.5,6.0,37.0,0.0,94218220.68,7399.0,17.81,82.14,381596298.57,138804.0,69.28,Technology & Consumer Goods
+S30.PA,Solutions 30 SE,IT Services,2022,83.33,73.81,7.0,44.0,24.0,47512842.47,7354.5,22.62,85.71,302959118.15,168338.0,68.08,Technology & Consumer Goods
+S30.PA,Solutions 30 SE,IT Services,2023,71.43,61.9,7.0,37.0,25.0,76479092.4,7137.5,21.43,92.86,346087206.03,183274.0,1.4,Technology & Consumer Goods
+S30.PA,Solutions 30 SE,IT Services,2024,100.0,87.8,7.0,48.0,24.0,77174788.10571429,5842.0,21.95,50.0,313974484.41571426,199701.0,0.99,Technology & Consumer Goods
+STMPA.PA,STMicroelectronics NV,Semiconductors & Semiconductor Equipment,2017,88.89,75.45,9.0,50.0,0.0,1278000000.0,43331.5,37.0,78.57,6720000000.0,2000080.0,64.63,Technology & Consumer Goods
+STMPA.PA,STMicroelectronics NV,Semiconductors & Semiconductor Equipment,2018,88.89,75.0,9.0,50.0,0.0,1963000000.0,44474.0,48.85,95.0,7517000000.0,2182416.0,63.21,Technology & Consumer Goods
+STMPA.PA,STMicroelectronics NV,Semiconductors & Semiconductor Equipment,2019,88.89,75.61,9.0,50.0,4.0,2500000000.0,45710.5,59.93,94.23,9031000000.0,2159791.0,64.49,Technology & Consumer Goods
+STMPA.PA,STMicroelectronics NV,Semiconductors & Semiconductor Equipment,2020,88.89,91.07,9.0,67.0,20.0,2453000000.0,45753.5,58.92,91.67,9485000000.0,2277700.0,65.0,Technology & Consumer Goods
+STMPA.PA,STMicroelectronics NV,Semiconductors & Semiconductor Equipment,2021,77.78,97.13,9.0,61.0,17.0,2624000000.0,45785.0,31.08,91.25,11121000000.0,2024704.0,66.82,Technology & Consumer Goods
+STMPA.PA,STMicroelectronics NV,Semiconductors & Semiconductor Equipment,2022,77.78,90.22,9.0,59.87,15.97,3896000000.0,47135.0,37.5,96.59,12318000000.0,2026668.0,58.56,Technology & Consumer Goods
+STMPA.PA,STMicroelectronics NV,Semiconductors & Semiconductor Equipment,2023,88.89,85.64,9.0,56.0,20.0,6227000000.0,49812.0,38.83,71.59,16326000000.0,2414390.0,64.24,Technology & Consumer Goods
+STMPA.PA,STMicroelectronics NV,Semiconductors & Semiconductor Equipment,2024,77.78,79.44,9.0,57.0,20.0,6787000000.0,51346.5,27.22,51.04,20474000000.0,2513112.0,50.27,Technology & Consumer Goods
+SWON.S,SoftwareOne Holding Ltd,Electronic Equipment Instruments & Components,2017,60.592,60.194,8.4,35.606,24.4,80117007.08,2805.5,56.628,5.363999999999999,227035820.59,74823.0,59.206,Technology & Consumer Goods
+SWON.S,SoftwareOne Holding Ltd,Electronic Equipment Instruments & Components,2018,60.592,60.194,8.4,35.606,24.4,132290605.26,2771.5,56.628,5.363999999999999,275283268.8,74823.0,59.206,Technology & Consumer Goods
+SWON.S,SoftwareOne Holding Ltd,Electronic Equipment Instruments & Components,2019,60.592,60.194,8.4,35.606,24.4,200401942.55,4100.5,56.628,5.363999999999999,779989667.29,74823.0,59.206,Technology & Consumer Goods
+SWON.S,SoftwareOne Holding Ltd,Electronic Equipment Instruments & Components,2020,54.55,51.31,11.0,29.0,20.0,212378262.34,5830.5,63.38,1.56,994888713.14,74823.0,69.86,Technology & Consumer Goods
+SWON.S,SoftwareOne Holding Ltd,Electronic Equipment Instruments & Components,2021,57.14,42.82,7.0,33.0,24.0,175596360.45,7465.0,57.25,4.13,1001348388.51,74823.0,70.87,Technology & Consumer Goods
+SWON.S,SoftwareOne Holding Ltd,Electronic Equipment Instruments & Components,2022,55.56,59.18,9.0,31.03,25.0,287532453.48,8885.5,53.64,7.14,889742535.7,74823.0,51.96,Technology & Consumer Goods
+SWON.S,SoftwareOne Holding Ltd,Electronic Equipment Instruments & Components,2023,50.0,56.86,8.0,31.0,24.0,291412953.06,9180.0,58.87,12.04,804051099.23,73386.0,50.28,Technology & Consumer Goods
+SWON.S,SoftwareOne Holding Ltd,Electronic Equipment Instruments & Components,2024,85.71,90.8,7.0,54.0,29.0,197104226.31714287,5862.642857142857,50.0,1.95,710334213.3228571,76260.0,53.06,Technology & Consumer Goods
+TEL.N,TE Connectivity PLC,Electronic Equipment Instruments & Components,2017,16.67,35.71,12.0,40.0,15.0,2640000000.0,76500.0,95.39,25.0,14095000000.0,32500.0,65.0,Technology & Consumer Goods
+TEL.N,TE Connectivity PLC,Electronic Equipment Instruments & Components,2018,8.33,32.95,12.0,34.0,25.0,3138000000.0,79000.0,93.68,25.0,14831000000.0,138023.0,75.71,Technology & Consumer Goods
+TEL.N,TE Connectivity PLC,Electronic Equipment Instruments & Components,2019,8.33,32.08,12.0,34.0,20.0,2950000000.0,79000.0,95.96,25.0,14535000000.0,111190.0,72.62,Technology & Consumer Goods
+TEL.N,TE Connectivity PLC,Electronic Equipment Instruments & Components,2020,15.108571428571429,13.64,12.0,34.0,0.0,2441000000.0,80000.0,94.59,25.0,13641000000.0,92411.0,70.0,Technology & Consumer Goods
+TEL.N,TE Connectivity PLC,Electronic Equipment Instruments & Components,2021,15.38,39.29,13.0,30.0,40.0,3467000000.0,85500.0,54.35,25.0,14840000000.0,85535.0,71.05,Technology & Consumer Goods
+TEL.N,TE Connectivity PLC,Electronic Equipment Instruments & Components,2022,15.38,30.91,13.0,31.0,46.0,3727000000.0,90500.0,50.0,25.0,15103000000.0,172689.0,61.17,Technology & Consumer Goods
+TEL.N,TE Connectivity PLC,Electronic Equipment Instruments & Components,2023,16.67,49.07,12.0,28.0,40.0,3471000000.0,91000.0,11.11,25.0,15866000000.0,231237.0,60.81,Technology & Consumer Goods
+TEL.N,TE Connectivity PLC,Electronic Equipment Instruments & Components,2024,25.0,36.36,12.0,44.0,24.0,3809000000.0,88500.0,33.64,25.0,16689000000.0,211222.0,58.62,Technology & Consumer Goods
+TEMN.S,Temenos AG,Software,2017,71.43,40.41,7.0,52.721428571428575,18.0,270212000.0,4457.5,24.34,74.83333333333333,819697000.0,699944.4285714285,46.84,Technology & Consumer Goods
+TEMN.S,Temenos AG,Software,2018,75.0,24.38,8.0,39.0,0.0,320716000.0,4953.0,24.14,74.83333333333333,1112846000.0,435160.0,57.39,Technology & Consumer Goods
+TEMN.S,Temenos AG,Software,2019,75.0,26.56,8.0,25.0,0.0,384728000.0,6600.5,29.78,72.62,1619647000.0,781184.0,57.76,Technology & Consumer Goods
+TEMN.S,Temenos AG,Software,2020,75.0,27.45,8.0,48.0,21.0,391157000.0,7841.0,71.97,70.83,1501261000.0,1036728.0,52.05,Technology & Consumer Goods
+TEMN.S,Temenos AG,Software,2021,85.71,42.82,7.0,65.0,24.0,399517000.0,8244.5,68.26,77.98,1434646000.0,790628.0,61.45,Technology & Consumer Goods
+TEMN.S,Temenos AG,Software,2022,75.0,31.88,8.0,57.05,25.0,317389000.0,8113.5,88.83,75.89,1393847000.0,727524.0,57.08,Technology & Consumer Goods
+TEMN.S,Temenos AG,Software,2023,90.0,72.3,10.0,65.0,29.0,355615000.0,7169.5,58.87,65.74,1446656000.0,620412.0,60.02,Technology & Consumer Goods
+TEMN.S,Temenos AG,Software,2024,87.5,82.09,8.0,70.0,27.0,391166000.0,6768.5,94.0,85.94,1365697000.0,507975.0,55.77,Technology & Consumer Goods
+TMV.DE,TeamViewer SE,Software,2017,30.95,31.484,6.2,38.352,22.444,74138985.86,1203.3,48.718,78.57,723369441.35,17995.0,54.5925,Technology & Consumer Goods
+TMV.DE,TeamViewer SE,Software,2018,30.95,31.484,6.2,38.352,22.444,170764519.68,1203.3,48.718,78.57,707680750.53,17995.0,54.5925,Technology & Consumer Goods
+TMV.DE,TeamViewer SE,Software,2019,30.95,31.484,6.2,38.352,22.444,236009909.65,746.5,48.718,78.57,794407326.86,17995.0,54.5925,Technology & Consumer Goods
+TMV.DE,TeamViewer SE,Software,2020,30.95,8.12,6.0,10.0,0.0,253827552.52,1048.5,31.22,78.57,931806301.91,17995.0,54.5925,Technology & Consumer Goods
+TMV.DE,TeamViewer SE,Software,2021,30.95,11.59,6.0,39.0,22.0,209249028.03,1366.5,31.08,78.57,1361383943.8,17995.0,61.45,Technology & Consumer Goods
+TMV.DE,TeamViewer SE,Software,2022,30.95,29.03,6.0,44.76,22.22,233574486.3,1431.5,77.96,78.57,800431292.81,17995.0,51.96,Technology & Consumer Goods
+TMV.DE,TeamViewer SE,Software,2023,33.33,22.48,6.0,41.0,24.0,261364263.41,1423.5,28.78,78.57,676594969.82,17995.0,52.62,Technology & Consumer Goods
+TMV.DE,TeamViewer SE,Software,2024,28.57,86.2,7.0,57.0,44.0,261478413.91,1203.3,74.55,78.57,564362770.47,17995.0,52.34,Technology & Consumer Goods
+TU.BK,Thai Union Group PCL,Food Products,2017,25.0,9.21,12.0,35.0,23.0,272424147.47,6410.083333333333,14.1,48.333333333333336,3543730322.58,885186.0,7.39,Technology & Consumer Goods
+TU.BK,Thai Union Group PCL,Food Products,2018,25.0,6.1,12.0,37.0,31.0,229813176.62,6410.083333333333,17.86,48.333333333333336,3433132415.71,767145.0,6.63,Technology & Consumer Goods
+TU.BK,Thai Union Group PCL,Food Products,2019,25.0,3.33,12.0,30.0,29.0,296677217.74,1829.0,18.48,48.333333333333336,3753350806.45,264958.4,6.69,Technology & Consumer Goods
+TU.BK,Thai Union Group PCL,Food Products,2020,25.0,2.91,12.0,30.0,38.0,412279627.16,1759.0,12.98,25.0,3799995106.52,209389.7,10.28,Technology & Consumer Goods
+TU.BK,Thai Union Group PCL,Food Products,2021,25.0,3.19,12.0,33.0,38.0,414904995.49,1704.0,7.43,25.0,4010054288.29,260195.9,94.42,Technology & Consumer Goods
+TU.BK,Thai Union Group PCL,Food Products,2022,16.67,45.3,12.0,31.98,38.46,384910979.49,7118.5,3.04,48.333333333333336,4290329471.25,299523.5,93.34,Technology & Consumer Goods
+TU.BK,Thai Union Group PCL,Food Products,2023,18.18,48.4,11.0,37.0,31.0,342628442.5,12793.5,2.41,48.333333333333336,3901177874.82,240232.2,93.73,Technology & Consumer Goods
+TU.BK,Thai Union Group PCL,Food Products,2024,18.18,42.07,11.0,52.0,34.0,358701225.92,13256.5,1.68,95.0,3643444162.29,1212206.82,92.75,Technology & Consumer Goods
+ULVR.L,Unilever PLC,Personal Care Products,2017,85.71,96.47,14.0,69.0,67.0,13121243747.08,164699.0,79.26,81.25,45847578603.9,1350660.0,35.48,Technology & Consumer Goods
+ULVR.L,Unilever PLC,Personal Care Products,2018,84.62,92.77,13.0,69.0,67.0,13394577484.17,157707.0,76.69,55.0,43929488943.94,2247920.0,28.57,Technology & Consumer Goods
+ULVR.L,Unilever PLC,Personal Care Products,2019,84.62,87.27,13.0,51.0,71.0,13352240880.66,152357.5,85.19,69.44,46734524583.55,2477568.0,28.57,Technology & Consumer Goods
+ULVR.L,Unilever PLC,Personal Care Products,2020,61.54,85.25,13.0,51.0,53.0,13904494382.02,149408.0,69.06,57.41,54252564728.87,2997340.0,26.92,Technology & Consumer Goods
+ULVR.L,Unilever PLC,Personal Care Products,2021,66.67,86.26,12.0,60.87,73.33,12939090102.99,148474.5,78.96,79.69,56178523520.45,3427000.0,24.56,Technology & Consumer Goods
+ULVR.L,Unilever PLC,Personal Care Products,2022,53.85,91.58,13.0,64.0,67.0,12409032534.25,137500.0,68.7,91.07,53660102739.73,2500097.6,26.52,Technology & Consumer Goods
+ULVR.L,Unilever PLC,Personal Care Products,2023,69.23,67.45,13.0,61.0,69.0,12702371624.38,127500.0,62.6,72.58,54470109145.49,2500097.6,27.22,Technology & Consumer Goods
+ULVR.L,Unilever PLC,Personal Care Products,2024,66.67,71.61,12.0,63.0,73.0,13254995341.13,148235.14285714287,36.13,85.14,56535873278.81,2500097.6,28.31,Technology & Consumer Goods
+UNVR.JK,Unilever Indonesia Tbk PT,Household Products,2017,16.67,29.49,5.0,37.0,86.0,750159823.07,6096.5,96.15,54.4425,707516623.66,2428.0,14.52,Technology & Consumer Goods
+UNVR.JK,Unilever Indonesia Tbk PT,Household Products,2018,16.67,29.76,5.0,33.0,86.0,934420452.17,5868.5,89.29,54.4425,617537321.74,50987.0,10.0,Technology & Consumer Goods
+UNVR.JK,Unilever Indonesia Tbk PT,Household Products,2019,16.67,29.07,5.0,48.0,47.0,836036743.52,5581.0,91.86,54.4425,666200000.0,33485.0,8.33,Technology & Consumer Goods
+UNVR.JK,Unilever Indonesia Tbk PT,Household Products,2020,16.67,82.61,5.0,54.0,57.0,757680698.01,5327.5,92.39,55.26,634783333.33,57105.0,8.65,Technology & Consumer Goods
+UNVR.JK,Unilever Indonesia Tbk PT,Household Products,2021,16.67,69.0,6.0,55.0,47.0,624064631.58,5085.5,95.83,52.78,495307719.3,33802.67,7.89,Technology & Consumer Goods
+UNVR.JK,Unilever Indonesia Tbk PT,Household Products,2022,16.67,63.25,6.0,51.33,50.0,539887439.77,4899.0,96.99,66.67,339304979.12,26698.97,11.36,Technology & Consumer Goods
+UNVR.JK,Unilever Indonesia Tbk PT,Household Products,2023,16.67,91.21,6.0,50.0,50.0,493154270.87,4719.0,91.21,54.4425,268400194.87,32790.25,14.56,Technology & Consumer Goods
+UNVR.JK,Unilever Indonesia Tbk PT,Household Products,2024,16.67,90.86,6.0,54.0,53.0,340070975.76,4427.5,94.09,43.06,256674891.24,56917.64,16.27,Technology & Consumer Goods
+VANTI.PA,Vantiva SA,Communications Equipment,2017,54.55,35.57,11.0,27.0,0.0,389870562.97,16662.0,97.42,13.64,1714230875.35,302683.0,11.61,Technology & Consumer Goods
+VANTI.PA,Vantiva SA,Communications Equipment,2018,60.0,30.56,10.0,41.0,0.0,285576658.41,17026.0,98.15,13.64,1482934214.15,292534.0,9.17,Technology & Consumer Goods
+VANTI.PA,Vantiva SA,Communications Equipment,2019,62.5,19.61,8.0,30.0,0.0,338542250.52,17579.5,91.83,13.64,1492052104.12,312367.0,9.52,Technology & Consumer Goods
+VANTI.PA,Vantiva SA,Communications Equipment,2020,38.46,19.06,13.0,32.0,0.0,195407914.02,15351.5,87.19,13.64,1596238397.66,340619.0,4.79,Technology & Consumer Goods
+VANTI.PA,Vantiva SA,Communications Equipment,2021,25.0,9.24,12.0,31.0,0.0,258054248.23,9635.0,86.15,13.64,1556283109.38,95220.0,4.89,Technology & Consumer Goods
+VANTI.PA,Vantiva SA,Communications Equipment,2022,30.0,4.82,10.0,35.0,16.0,183005136.99,5651.5,73.35,13.64,803724315.07,415544.0,4.13,Technology & Consumer Goods
+VANTI.PA,Vantiva SA,Communications Equipment,2023,37.5,3.54,9.0,33.0,16.0,160021189.01,4825.0,64.9,13.64,604769735.03,134195.0,30.65,Technology & Consumer Goods
+VANTI.PA,Vantiva SA,Communications Equipment,2024,40.0,4.43,10.0,33.0,16.0,258639708.59285715,12390.07142857143,45.31,13.64,1321461821.537143,74567.0,27.73,Technology & Consumer Goods
+ZGN.N,Ermenegildo Zegna NV,Textiles Apparel & Luxury Goods,2017,59.09,23.55,11.0,63.5,50.0,330132629.4,6057.125,15.165,75.0,1998465114.53,55528.65,59.475,Technology & Consumer Goods
+ZGN.N,Ermenegildo Zegna NV,Textiles Apparel & Luxury Goods,2018,59.09,23.55,11.0,63.5,50.0,330132629.4,6057.125,15.165,75.0,1998465114.53,55528.65,59.475,Technology & Consumer Goods
+ZGN.N,Ermenegildo Zegna NV,Textiles Apparel & Luxury Goods,2019,59.09,23.55,11.0,63.5,50.0,299127213.51,6057.125,15.165,75.0,1998465114.53,55528.65,59.475,Technology & Consumer Goods
+ZGN.N,Ermenegildo Zegna NV,Textiles Apparel & Luxury Goods,2020,59.09,23.55,11.0,63.5,50.0,309906284.33,6057.125,15.165,75.0,2087848351.01,55528.65,59.475,Technology & Consumer Goods
+ZGN.N,Ermenegildo Zegna NV,Textiles Apparel & Luxury Goods,2021,59.09,23.55,11.0,63.5,50.0,228760381.05,5977.5,15.165,75.0,2102783341.48,55528.65,59.475,Technology & Consumer Goods
+ZGN.N,Ermenegildo Zegna NV,Textiles Apparel & Luxury Goods,2022,59.09,23.55,11.0,63.5,50.0,322163108.47,5843.5,15.165,75.0,1945403906.05,55528.65,59.475,Technology & Consumer Goods
+ZGN.N,Ermenegildo Zegna NV,Textiles Apparel & Luxury Goods,2023,18.18,27.66,11.0,57.0,50.0,360075984.59,5930.0,17.55,75.0,1762503210.62,36481.5,60.55,Technology & Consumer Goods
+ZGN.N,Ermenegildo Zegna NV,Textiles Apparel & Luxury Goods,2024,100.0,19.44,11.0,70.0,50.0,460762804.45,6477.5,12.78,75.0,2093786763.49,74575.8,58.4,Technology & Consumer Goods
